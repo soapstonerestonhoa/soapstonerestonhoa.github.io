@@ -20,14 +20,14 @@ Annual assessments are currently $1,380.  By default, these are billed quarterly
 
 ## Board Meeting Schedule (FY22)
 
-| Date               | Time   | Location          | Type
-|:-------------------|:-------|:------------------|:-------
-| March 18, 2021     | 7PM    | TBD / Virtual     | Monthly
-| May 20, 2021       | 7PM    | TBD / Virtual     | Monthly
-| July 22, 2021      | 7PM    | TBD / Virtual     | Monthly
-| September 23, 2021 | 7PM    | TBD / Virtual     | Monthly
-| November 18, 2021  | 7PM    | TBD / Virtual     | Monthly
-| TBD (February 2022 | TBD    | TBD               | Annual
+| Date                | Time   | Location          | Type
+|:--------------------|:-------|:------------------|:-------
+| March 18, 2021      | 7PM    | TBD / Virtual     | Monthly
+| May 20, 2021        | 7PM    | TBD / Virtual     | Monthly
+| July 22, 2021       | 7PM    | TBD / Virtual     | Monthly
+| September 23, 2021  | 7PM    | TBD / Virtual     | Monthly
+| November 18, 2021   | 7PM    | TBD / Virtual     | Monthly
+| TBD (February 2022) | TBD    | TBD               | Annual
 
 ## Managment Provider
 
