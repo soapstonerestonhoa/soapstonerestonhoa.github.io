@@ -7,27 +7,27 @@ Please see below for some commonly requested information.
 
 ## Annual Assessments
 
-Annual assessments are currently $1,380.  By default, these are billed quarterly in equal installments at no additional charge.
+Annual assessments are currently $1,480.  By default, these are billed quarterly in equal installments at no additional charge.
 
 | Installment | Amount | Due Date
 |:------------|:-------|:------------------|
-| 1           | $345   | September 30
-| 2           | $345   | December 31
-| 3           | $345   | March 31
-| 4           | $345   | June 30
+| 1           | $370   | June 30
+| 2           | $370   | September 30
+| 3           | $370   | December 31
+| 4           | $370   | March 31
 
 *Please note that a $15 fee is assessed for quarterly payments received more than 30 days past the due date.*
 
-## Board Meeting Schedule (FY22)
+## Board Meeting Schedule (FY23)
 
 | Date                | Time   | Location          | Type
 |:--------------------|:-------|:------------------|:-------
-| March 18, 2021      | 7PM    | TBD / Virtual     | Monthly
-| May 20, 2021        | 7PM    | TBD / Virtual     | Monthly
-| July 22, 2021       | 7PM    | TBD / Virtual     | Monthly
-| September 23, 2021  | 7PM    | TBD / Virtual     | Monthly
-| November 18, 2021   | 7PM    | TBD / Virtual     | Monthly
-| TBD (February 2022) | TBD    | TBD               | Annual
+| March 17, 2022      | 7PM    | TBD / Virtual     | Monthly
+| May 19, 2022        | 7PM    | TBD / Virtual     | Monthly
+| July 21, 2022       | 7PM    | TBD / Virtual     | Monthly
+| September 22, 2022  | 7PM    | TBD / Virtual     | Monthly
+| November 17, 2022   | 7PM    | TBD / Virtual     | Monthly
+| TBD (February 2023) | TBD    | TBD               | Annual
 
 ## Managment Provider
 
