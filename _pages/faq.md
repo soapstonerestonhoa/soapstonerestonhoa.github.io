@@ -35,11 +35,12 @@ Gates Hudson Community Management
 3020 Hamaker Court  
 Suite 300  
 Fairfax, Virginia, 22031
+703-752-8300
 
-### Financial Manager Contact  
-Blanca Jackson  
-bjackson@ghacm.com  
-(o) 703-752-8300 ex:707 | (f) 703-876-9594
+### Management Provider Contact  
+Geri Genebroso  
+GGenebroso@ghacm.com  
+(o) 703-752-8300 x757 | (f) 703-876-9594
 
 ## Parking Guidlines
 
