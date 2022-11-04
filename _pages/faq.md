@@ -58,7 +58,7 @@ GGenebroso@ghacm.com
 
 Charlotte Smith  
 csmith@reston.org  
-(703)-673-2037
+703-673-2037
 
 ## Reston Cluster Standards
 
