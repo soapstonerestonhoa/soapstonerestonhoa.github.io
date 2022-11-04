@@ -69,10 +69,10 @@ csmith@reston.org
 [American Disposal](http://www.americandisposal.com/)  
 703-368-0500 or 866-884-8700 
 
-| Collection Type | Frequency          |
+| Collection Type | Frequency         |
 |:----------------|:------------------|
-| Trash           | Tuesday / Friday |
-| Recycling       | Friday           |
+| Trash           | Thursday          |
+| Recycling       | Thursday          |
 
 All pickups should be placed on sidewalk in front of residence no earlier than 9PM the day before a pickup and empty containers retrieved no later than 9PM on collection day.
 
