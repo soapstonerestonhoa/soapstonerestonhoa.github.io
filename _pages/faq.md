@@ -82,9 +82,7 @@ csmith@reston.org
 | Trash           | Thursday          |
 | Recycling       | Thursday          |
 
-All pickups should be placed on sidewalk in front of residence no earlier than 9PM the day before a pickup and empty containers retrieved no later than 9PM on collection day.
-
-Large pickups are collected on Friday.  
+All pickups should be placed on sidewalk in front of residence no earlier than 9PM the day before a pickup and empty containers retrieved no later than 9PM on collection day. 
 
 All waste should be properly bagged, sealed, and within collection containers to prevent debris during pickup or animal investigation, especially overnight.
 
