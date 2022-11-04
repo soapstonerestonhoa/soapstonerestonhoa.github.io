@@ -54,6 +54,14 @@ GGenebroso@ghacm.com
 * Households with greater than 3 vehicles must park the extra vehicles on Soapstone Drive so that they are not monopolizing the shared lot.
 * Trash and recycling containers should not be placed in the parking lot. This will prevent possible damage to vehicles and trash/recycling bins. This is especially important during the winter season as our snow removal crew will need all the space available to push the snow off of the lot.
 
+## Resale Documents
+
+Resale documents should be orderded from both the Reston Association and the Cluster itself.
+
+Reston Association - [Reston Association](https://www.reston.org/property-owner-resources?utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz--HR0o_7RovdDDNJlfkFnCWwFF6zDxKeNK-hFKQxUViTfFlny9RoRjgGvfJNuB37mDs_H29) - Search for "Resale Disclosure Documents"
+
+Cluster - [Gates Hudson Community Management](https://gateshudson.com/community-management/order-resale-documents?utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz--HR0o_7RovdDDNJlfkFnCWwFF6zDxKeNK-hFKQxUViTfFlny9RoRjgGvfJNuB37mDs_H29)
+
 ## Reston Covenants Advisor
 
 Charlotte Smith  
