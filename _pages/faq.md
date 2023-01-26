@@ -27,7 +27,7 @@ Annual assessments are currently $1,480.  By default, these are billed quarterly
 | July 21, 2022       | 7PM    | TBD / Virtual     | Monthly
 | September 22, 2022  | 7PM    | TBD / Virtual     | Monthly
 | November 17, 2022   | 7PM    | TBD / Virtual     | Monthly
-| TBD (February 2023) | TBD    | TBD               | Annual
+| February 18, 2023   | 10AM   | Virtual           | Annual
 
 ## Managment Provider
 
