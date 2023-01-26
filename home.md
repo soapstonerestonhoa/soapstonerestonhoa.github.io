@@ -26,17 +26,10 @@ feature_row:
   - image_path: #
     alt: #
     title: "Contact"
-    excerpt: "Get in touch with us regarding questions or concerns that aren't covered on this site."
+    excerpt: "See when the Board [meets](#meeting-schedule) OR get in touch with us regarding questions or concerns that aren't covered on this site."
     url: "/contact/"
     btn_class: "btn--primary"
-    btn_label: "Learn more"      
-  - image_path: #
-    alt: #
-    title: "Meeting Schedule"
-    excerpt: ""
-    url: "#meeting-schedule"
-    btn_class: "btn--primary"
-    btn_label: "Join us!"    
+    btn_label: "Learn more"          
 ---
 
 {% include feature_row %}
