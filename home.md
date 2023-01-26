@@ -26,7 +26,7 @@ feature_row:
   - image_path: #
     alt: #
     title: "Contact"
-    excerpt: "See when the Board [meets](#meeting-schedule) or get in touch with us regarding questions or concerns that aren't covered on this site."
+    excerpt: "See when the Board [meets](#meeting-schedule) or get in touch with us for other questions."
     url: "/contact/"
     btn_class: "btn--primary"
     btn_label: "Learn more"          
