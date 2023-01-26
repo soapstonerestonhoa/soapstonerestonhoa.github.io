@@ -33,7 +33,16 @@ feature_row:
   - image_path: #
     alt: #
     title: "Meeting Schedule"
-    excerpt: "## Board Meeting Schedule (FY23)
+    excerpt: ""
+    url: "#meeting-schedule"
+    btn_class: "btn--primary"
+    btn_label: "Join us!"    
+---
+
+{% include feature_row %}
+
+<a name="meeting-schedule"></a>
+## Board Meeting Schedule (FY23)
 
 | Date                | Time   | Location          | Type
 |:--------------------|:-------|:------------------|:-------
@@ -42,10 +51,4 @@ feature_row:
 | July 21, 2022       | 7PM    | [Contact](https://soapstonerestonhoa.github.io/contact/) | Monthly
 | September 22, 2022  | 7PM    | [Contact](https://soapstonerestonhoa.github.io/contact/) | Monthly
 | November 17, 2022   | 7PM    | [Contact](https://soapstonerestonhoa.github.io/contact/) | Monthly
-| February 18, 2023   | 10AM   | [Contact](https://soapstonerestonhoa.github.io/contact/) | Monthly"
-    url: "/faq/"
-    btn_class: "btn--primary"
-    btn_label: "Learn more"    
----
-
-{% include feature_row %}
+| February 18, 2023   | 10AM   | [Contact](https://soapstonerestonhoa.github.io/contact/) | Monthly
