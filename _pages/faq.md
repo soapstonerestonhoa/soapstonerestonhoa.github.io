@@ -22,14 +22,14 @@ Annual assessments are currently $1,480.  By default, these are billed quarterly
 
 | Date                | Time   | Location          | Type
 |:--------------------|:-------|:------------------|:-------
-| March 17, 2022      | 7PM    | TBD / Virtual     | Monthly
-| May 19, 2022        | 7PM    | TBD / Virtual     | Monthly
-| July 21, 2022       | 7PM    | TBD / Virtual     | Monthly
-| September 22, 2022  | 7PM    | TBD / Virtual     | Monthly
-| November 17, 2022   | 7PM    | TBD / Virtual     | Monthly
-| February 18, 2023   | 10AM   | Virtual           | Annual
+| March 17, 2022      | 7PM    | [Contact](https://soapstonerestonhoa.github.io/contact/) | Monthly
+| May 19, 2022        | 7PM    | [Contact](https://soapstonerestonhoa.github.io/contact/) | Monthly
+| July 21, 2022       | 7PM    | [Contact](https://soapstonerestonhoa.github.io/contact/) | Monthly
+| September 22, 2022  | 7PM    | [Contact](https://soapstonerestonhoa.github.io/contact/) | Monthly
+| November 17, 2022   | 7PM    | [Contact](https://soapstonerestonhoa.github.io/contact/) | Monthly
+| February 18, 2023   | 10AM   | [Contact](https://soapstonerestonhoa.github.io/contact/) | Annual
 
-## Managment Provider
+## Management Provider
 
 Gates Hudson Community Management  
 3020 Hamaker Court  
@@ -56,7 +56,7 @@ GGenebroso@ghacm.com
 
 ## Resale Documents
 
-Resale documents should be orderded from both the Reston Association and the Cluster itself.
+Resale documents should be ordered from both the Reston Association and the Cluster itself.
 
 Reston Association - [Reston Association](https://www.reston.org/property-owner-resources?utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz--HR0o_7RovdDDNJlfkFnCWwFF6zDxKeNK-hFKQxUViTfFlny9RoRjgGvfJNuB37mDs_H29) - Search for "Resale Disclosure Documents"
 
