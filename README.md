@@ -2,7 +2,7 @@
 
 > If you're just here to add/update content, skip to the next section.
 
-The purpose of this repository is to establish a simple web presence for the Cluster.  All of the content is purposefully flat, making it easy to transition to another provider/platform if the need were to ever arise.
+The purpose of this repository is to establish a simple web presence for the Cluster.  All of the content is purposefully flat to keep things as simple as possible.
 
 This repository is publicly exposed via [GitHub Pages](https://pages.github.com/).  The link for the site is https://soapstonerestonhoa.github.io/.
 
