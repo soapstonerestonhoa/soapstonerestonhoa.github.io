@@ -35,13 +35,15 @@ feature_row:
 {% include feature_row %}
 
 <a name="meeting-schedule"></a>
+
 ## Board Meeting Schedule (FY23)
 
 | Date                | Time   | Location          | Type
 |:--------------------|:-------|:------------------|:-------
-| March 17, 2022      | 7PM    | [Contact](https://soapstonerestonhoa.github.io/contact/) | Monthly
-| May 19, 2022        | 7PM    | [Contact](https://soapstonerestonhoa.github.io/contact/) | Monthly
-| July 21, 2022       | 7PM    | [Contact](https://soapstonerestonhoa.github.io/contact/) | Monthly
-| September 22, 2022  | 7PM    | [Contact](https://soapstonerestonhoa.github.io/contact/) | Monthly
-| November 17, 2022   | 7PM    | [Contact](https://soapstonerestonhoa.github.io/contact/) | Monthly
-| February 18, 2023   | 10AM   | [Contact](https://soapstonerestonhoa.github.io/contact/) | Monthly
+| February 18, 2023   | 10AM   | [Contact](https://soapstonerestonhoa.github.io/contact/) | Annual
+| March 16, 2023      | 7PM    | [Contact](https://soapstonerestonhoa.github.io/contact/) | Monthly
+| May 18, 2023        | 7PM    | [Contact](https://soapstonerestonhoa.github.io/contact/) | Monthly
+| July 20, 2023       | 7PM    | [Contact](https://soapstonerestonhoa.github.io/contact/) | Monthly
+| September 21, 2023  | 7PM    | [Contact](https://soapstonerestonhoa.github.io/contact/) | Monthly
+| November 16, 2023   | 7PM    | [Contact](https://soapstonerestonhoa.github.io/contact/) | Monthly
+| February, 2024      | TBD    | [Contact](https://soapstonerestonhoa.github.io/contact/) | Annual
