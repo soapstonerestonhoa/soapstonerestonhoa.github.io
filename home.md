@@ -36,7 +36,7 @@ feature_row:
 
 <a name="meeting-schedule"></a>
 
-## Board Meeting Schedule (FY23)
+## Board Meeting Schedule (FY24)
 
 | Date                | Time   | Location          | Type
 |:--------------------|:-------|:------------------|:-------
