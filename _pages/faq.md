@@ -18,7 +18,7 @@ Annual assessments are currently $1,480.  By default, these are billed quarterly
 
 *Please note that a $15 fee is assessed for quarterly payments received more than 30 days past the due date.*
 
-## Board Meeting Schedule (FY23)
+## Board Meeting Schedule (FY24)
 
 | Date                | Time   | Location          | Type
 |:--------------------|:-------|:------------------|:-------
