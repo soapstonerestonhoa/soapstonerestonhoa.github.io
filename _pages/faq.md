@@ -20,6 +20,7 @@ Annual assessments are currently $1,880.  By default, these are billed quarterly
 
 ## Board Meeting Schedule (FY25)
 Dates and times are subject to change.
+
 | Date                | Time   | Location          | Type
 |:--------------------|:-------|:------------------|:-------
 | March 15, 2025      | 10AM   | [Contact](https://soapstonerestonhoa.github.io/contact/) | Annual
