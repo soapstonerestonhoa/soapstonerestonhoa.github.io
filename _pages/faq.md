@@ -7,14 +7,14 @@ Please see below for some commonly requested information.
 
 ## Annual Assessments
 
-Annual assessments are currently $1,480.  By default, these are billed quarterly in equal installments at no additional charge.
+Annual assessments are currently $1,580.  By default, these are billed quarterly in equal installments at no additional charge.
 
 | Installment | Amount | Due Date
 |:------------|:-------|:------------------|
-| 1           | $370   | April 1
-| 2           | $370   | July 1
-| 3           | $370   | October 1
-| 4           | $370   | January 1
+| 1           | $470   | April 1
+| 2           | $470   | July 1
+| 3           | $470   | October 1
+| 4           | $470   | January 1
 
 *Please note that a $15 fee is assessed for quarterly payments received more than 30 days past the due date.*
 
