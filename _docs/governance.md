@@ -39,11 +39,11 @@ The Member-At-Large is responsible for overseeing various Cluster projects as di
 ## Other Volunteer Positions
 
 ### Editor - Soapstone News
-A volunteer editor position is part of the continuing effort to keep all residents informed of Cluster activities and news. A periodic newsletter, Soapstone News, is published and sent via email. The editor is in charge of assembling each issue and sending out via email.  
+A volunteer editor position is part of the continuing effort to keep all residents informed of Cluster activities and news. A periodic newsletter, is published and sent via email. The editor is in charge of assembling each issue and sending out via email.  
 Information for this newsletter is selected from Board meetings, the annual Cluster Association meeting, and committee reports. It includes announcements of Cluster activities and Reston area news important to Soapstone Cluster residents. The newsletter is designed for the benefit and use of all Soapstone Cluster residents, and all homeowners are encouraged to contact the editor with any news or general comments.
 
 ### Committees
 The Soapstone Cluster Association uses committees to advise and assist the Board of Directors in researching problems and making recommendations. 
 
 ## Annual Meeting
-The Annual Meeting of the Cluster occurs every year in February, and is usually held in the Glade Room on Glade Drive above the Glade Pool. Each Member (owner(s) of an individual townhouse unit) has one vote. Associate Members (non-owner resident) are eligible to vote on issues not involving budgetary matters. If Members are unable to attend the Annual Meeting, it is possible to vote by proxy. The proxy form is included with a mailed meeting announcement and is also available from any Board Member.
+The Annual Meeting of the Cluster occurs every year in February, and is usually held virtually. Each Member (owner(s) of an individual townhouse unit) has one vote. Associate Members (non-owner resident) are eligible to vote on issues not involving budgetary matters. If Members are unable to attend the Annual Meeting, it is possible to vote by proxy. The proxy form is included with a mailed meeting announcement and is also available from any Board Member.
