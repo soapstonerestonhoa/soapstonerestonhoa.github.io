@@ -18,17 +18,20 @@ Annual assessments are currently $1,580.  By default, these are billed quarterly
 
 *Please note that a $15 fee is assessed for quarterly payments received more than 30 days past the due date.*
 
-## Board Meeting Schedule (FY24)
-
+## Board Meeting Schedule (FY25)
+Dates and times are subject to change.
 | Date                | Time   | Location          | Type
 |:--------------------|:-------|:------------------|:-------
-| February 18, 2023   | 10AM   | [Contact](https://soapstonerestonhoa.github.io/contact/) | Annual
-| March 16, 2023      | 7PM    | [Contact](https://soapstonerestonhoa.github.io/contact/) | Monthly
-| May 18, 2023        | 7PM    | [Contact](https://soapstonerestonhoa.github.io/contact/) | Monthly
-| July 20, 2023       | 7PM    | [Contact](https://soapstonerestonhoa.github.io/contact/) | Monthly
-| September 21, 2023  | 7PM    | [Contact](https://soapstonerestonhoa.github.io/contact/) | Monthly
-| November 16, 2023   | 7PM    | [Contact](https://soapstonerestonhoa.github.io/contact/) | Monthly
-| February,    2024   | TBD    | [Contact](https://soapstonerestonhoa.github.io/contact/) | Annual
+| March 15, 2025      | 10AM   | [Contact](https://soapstonerestonhoa.github.io/contact/) | Annual
+| April 16, 2025      | 7PM    | [Contact](https://soapstonerestonhoa.github.io/contact/) | Monthly
+| May 21, 2025        | 7PM    | [Contact](https://soapstonerestonhoa.github.io/contact/) | Monthly
+| June 18, 2025       | 7PM    | [Contact](https://soapstonerestonhoa.github.io/contact/) | Monthly
+| July 16, 2025       | 7PM    | [Contact](https://soapstonerestonhoa.github.io/contact/) | Monthly
+| August 20, 2025     | 7PM    | [Contact](https://soapstonerestonhoa.github.io/contact/) | Monthly
+| September 17, 2025  | TBD    | [Contact](https://soapstonerestonhoa.github.io/contact/) | Monthly
+| October 15, 2025    | TBD    | [Contact](https://soapstonerestonhoa.github.io/contact/) | Monthly
+| November 19, 2025   | TBD    | [Contact](https://soapstonerestonhoa.github.io/contact/) | Monthly
+| December 17, 2025   | TBD    | [Contact](https://soapstonerestonhoa.github.io/contact/) | Monthly
 
 ## Management Provider
 
