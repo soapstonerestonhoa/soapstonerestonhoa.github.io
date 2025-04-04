@@ -24,4 +24,11 @@ docs:
   - title: Newsletters
     children:
       - title: "Overview"
-        url: /newsletter/overview/
+        url: /newsletter/overview/  
+      - title: "Spring 2025"
+        url: /newsletter/spring-2025/        
+      - title: "Fall 2025"
+        url: /newsletter/fall-2025/        
+      - title: "Winter 2025"
+        url: /newsletter/winter-2025/
+        
