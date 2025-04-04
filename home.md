@@ -38,6 +38,7 @@ feature_row:
 
 ## Board Meeting Schedule (FY25) 
 Please note that dates and times are subject to change. Changes will be announced at least one week prior to the originally scheduled date.
+
 | Date                | Time   | Location          | Type
 |:--------------------|:-------|:------------------|:-------
 | March 15, 2025      | 10AM   | [Contact](https://soapstonerestonhoa.github.io/contact/) | Annual
