@@ -17,20 +17,38 @@ Most of the content is rendered using basic Markdown.  If you only want to outpu
 
 > There is no way to break the site.  All changes are tracked and can be undone.  If something doesn't work or look right, then the absolute worst case is that you look at the version [history](https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/making-changes-in-a-branch/viewing-the-branch-history) and undo a change.
 
+## Modifying the Landing Page
+
 If you want to modify the initial landing page, the file is here - https://github.com/soapstonerestonhoa/soapstonerestonhoa.github.io/blob/main/home.md.
 
-The rest of the site is split based on pages that need a side navigation bar and pages that do not.
-
-For pages that need a side navigation, look within the "_docs" folder.  An example of a page that uses this is https://soapstonerestonhoa.github.io/handbook/overview/.
-
-For pages that do not need a side navigation bar, look within the "_pages" folder.  An example of a page that uses this is https://soapstonerestonhoa.github.io/faq/.
+## Editing an existing page
 
 To edit an existing page, just find the markdown (.md) file, click the edit, and make the necessary edits.
 
-To add a new page, decide which main style is needed (side navigation or not), navigate to the corresponding folder (_docs vs _pages), click "Add file", name the file including the .md extension, add the "front matter" for navigation purposes, and finally add the desired content.  It might be easiest to copy the content from an existing file in the same folder and make changes to the newly created copy vs starting from scratch.
+## Adding a new page
+ 
+ 1. Navigate to the folder that corresponds to the type of page needed (_docs for side navigation vs _pages for no side navigation)
 
-When editing, you can switch between the raw version and what it will look like when the Markdown is rendered by using the "Preview" tab.  
+ > See [Editing Tips](#editing-tips) below for examples of this difference
+  
+ 2. Click "Add file" and name the file including the .md extension
+
+> It is easiest to copy the content from an existing file in the same folder and make changes to the newly created copy vs starting from scratch.
+   
+ 3. Add the "front matter" for navigation purposes
+ 4. Add the desired content
+
+## Saving Changes
 
 When happy with edits, "save" the file by Commiting the changes.  It's okay to leave all values as the default on the "Commit changes" tab.  The changes will display on the public site after a few minutes.
 
-Other advanced edits are possible with some deeper configuration changes.
+## Editing Tips
+
+- When editing, you can switch between the raw version and what it will look like when the Markdown is rendered by using the "Preview" tab.  
+
+ - For pages that need a side navigation, look within the "_docs" folder.  An example of a page that uses this is https://soapstonerestonhoa.github.io/handbook/overview/.
+
+ - For pages that do not need a side navigation bar, look within the "_pages" folder.  An example of a page that uses this is https://soapstonerestonhoa.github.io/faq/.
+ 
+ - Other advanced edits are possible with some deeper configuration changes.
+
