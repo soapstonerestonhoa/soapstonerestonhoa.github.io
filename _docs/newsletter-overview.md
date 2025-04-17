@@ -14,7 +14,7 @@ cluster reminders as well as cluster and community events.
 | [Fall 2025](#fall-2025)     |
 | [Winter 2025](#winter-2025) |
 
-You could get fancier and use the _data/navigation.yml in combintation with the _docs folder to have a separate page for every newsletter entry.  That's what you see on the left side of this page.
+
 
 
 ## Spring 2025
