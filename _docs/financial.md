@@ -54,3 +54,10 @@ Each house is assessed 1/80th of the approved budget. The assessments are billed
 The Treasurer monitors the billing and collection of the assessment fees by the management company. The Board of Directors considers delinquent assessments to be a serious problem and strictly enforces collection procedures described in the Bylaws.
 
 An assessment is delinquent if not received within the first 30 days of the quarter.  A late charge is added to the account when it becomes delinquent. If the assessment remains unpaid after 60 days past the due date, the balance of the annual assessment may become due and payable at the discretion of the Board of Directors. If the account is still delinquent after another 30 days, it may be turned over to a lawyer for collection. A lien may be recorded against the property. The delinquent homeowner is responsible for the attorney’s fees. The Membership rights of the delinquent owner may be suspended at the option of the Board of Directors until payment is received.
+
+## Monthly Financial Reports
+
+Each month our Management company issues a monthly financial report for review by the Board of Directors. A summary of that report can be found in the owner's GHA accounts. 
+
+You can also find the monthly reports here: https://drive.google.com/drive/folders/1sBepNXY4O0vCiNzQfuFTZgaBT-zBGNEx?usp=sharing
+
