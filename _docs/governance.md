@@ -47,3 +47,8 @@ The Soapstone Cluster Association uses committees to advise and assist the Board
 
 ## Annual Meeting
 The Annual Meeting of the Cluster occurs every year in February, and is usually held virtually. Each Member (owner(s) of an individual townhouse unit) has one vote. Associate Members (non-owner resident) are eligible to vote on issues not involving budgetary matters. If Members are unable to attend the Annual Meeting, it is possible to vote by proxy. The proxy form is included with a mailed meeting announcement and is also available from any Board Member.
+
+## Monthly Meetings
+The Monthly Meetings of the Board of Directors are open to all Members of the Association. The meeting date and time posted here is tentative. Meetings times and links to the virtual meeting site will be posted at least a week before. You can find monthly meeting minutes here:
+
+[April 2025](https://drive.google.com/drive/folders/16GKXoOTr9VSHhd6oO0K0o8V5J9eafP1V?usp=sharing)
