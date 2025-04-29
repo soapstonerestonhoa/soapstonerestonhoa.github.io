@@ -25,7 +25,7 @@ Dates and times are subject to change.
 |:--------------------|:-------|:------------------|:-------
 | March 15, 2025      | 10AM   | [Contact](https://soapstonerestonhoa.github.io/contact/) | Annual
 | April 16, 2025      | 7PM    | [Contact](https://soapstonerestonhoa.github.io/contact/) | Monthly
-| May 21, 2025        | 7PM    | [Contact](https://soapstonerestonhoa.github.io/contact/) | Monthly
+| May 14, 2025        | 7PM    | [Contact](https://soapstonerestonhoa.github.io/contact/) | Monthly
 | June 18, 2025       | 7PM    | [Contact](https://soapstonerestonhoa.github.io/contact/) | Monthly
 | July 16, 2025       | 7PM    | [Contact](https://soapstonerestonhoa.github.io/contact/) | Monthly
 | August 20, 2025     | 7PM    | [Contact](https://soapstonerestonhoa.github.io/contact/) | Monthly
