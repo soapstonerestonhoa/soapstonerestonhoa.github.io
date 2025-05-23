@@ -45,7 +45,8 @@ Fairfax, Virginia, 22031
 ### Management Provider Contact  
 Jeremy Dedios
 JDedios@ghacm.com 
-(o) 703-752-8300 x 724| (f) 703-876-9594
+(o) 703-752-8300 x 724
+(f) 703-876-9594
 
 ## Parking Guidlines
 
@@ -65,7 +66,7 @@ Resale documents should be ordered from both the Reston Association and the Clus
 
 Reston Association - [Reston Association](https://www.reston.org/property-owner-resources?utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz--HR0o_7RovdDDNJlfkFnCWwFF6zDxKeNK-hFKQxUViTfFlny9RoRjgGvfJNuB37mDs_H29) - Search for "Resale Disclosure Documents"
 
-Cluster - [Gates Hudson Community Management](https://gateshudson.com/community-management/order-resale-documents?utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz--HR0o_7RovdDDNJlfkFnCWwFF6zDxKeNK-hFKQxUViTfFlny9RoRjgGvfJNuB37mDs_H29)
+Cluster - [Gates Hudson Community Management](https://ghacm.com/order-resale-documents/)
 
 ## Reston Covenants Advisor
 
@@ -87,7 +88,7 @@ csmith@reston.org
 | Trash           | Thursday          |
 | Recycling       | Thursday          |
 
-All pickups should be placed on sidewalk in front of residence no earlier than 9PM the day before a pickup and empty containers retrieved no later than 9PM on collection day. 
+All pickups should be placed on sidewalk in front of residence no earlier than 6PM the day before a pickup and empty containers retrieved no later than 9PM on collection day. 
 
 All waste should be properly bagged, sealed, and within collection containers to prevent debris during pickup or animal investigation, especially overnight.
 
