@@ -59,7 +59,5 @@ An assessment is delinquent if not received within the first 30 days of the quar
 
 Each month our Management company issues a monthly financial report for review by the Board of Directors. A summary of that report can be found in the owner's GHA accounts. 
 
-You can also find the monthly reports here:
-
-[March 2025](https://drive.google.com/drive/folders/1sBepNXY4O0vCiNzQfuFTZgaBT-zBGNEx?usp=sharing)
+You can also find the monthly reports [here](https://drive.google.com/drive/folders/1sBepNXY4O0vCiNzQfuFTZgaBT-zBGNEx?usp=drive_link).
 
