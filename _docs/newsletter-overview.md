@@ -27,7 +27,7 @@ cluster reminders as well as cluster and community events.
 
 ## May 2025
 
-<a href="newsletter-may-2025.md">Link Text</a>
+<a href="newsletter-may-2025.md">You can read our May 2025 Newsletter here!</a>
 
 ## June 2025
 
