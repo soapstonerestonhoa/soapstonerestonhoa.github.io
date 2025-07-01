@@ -1,6 +1,4 @@
 ## April 2025
-permalink: /newsletter/april-2025/
-title: "April 2025"
 ---
 ## From the (new) Board    
 <small>Dear Soapstone Cluster HOA Members,  
