@@ -2,12 +2,9 @@
 permalink: /newsletter/may-2025/
 title: "May 2025"
 ---
-
-## May 2025
-
 ## From the Board
 
-Dear Soapstone Cluster HOA Members,
+<small>Dear Soapstone Cluster HOA Members,
 
 Spring has arrived, bringing warmth and exciting developments to our community. We are thrilled about the upcoming opening of Cafe DeClieu near our cluster, anticipated for May 6th.
 
@@ -47,4 +44,4 @@ May 5 - "Milk" - CenterStage Cinema (free)
 May 6 - Cafe DeClieu opening  
 May 17-18 - Tephra ICA Arts Festival at Reston Town Center  
 May 24 - Reston Concerts on the Town (RTC) Lez Zeppelin  
-May 29 - Lake Anne Sunset Paddle  
+May 29 - Lake Anne Sunset Paddle<small>  
