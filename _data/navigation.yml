@@ -25,10 +25,11 @@ docs:
     children:
       - title: "Overview"
         url: /newsletter/overview/  
-      - title: "Spring 2025"
-        url: /newsletter/spring-2025/        
-      - title: "Fall 2025"
-        url: /newsletter/fall-2025/        
-      - title: "Winter 2025"
-        url: /newsletter/winter-2025/
-        
+      - title: "April 2025"
+        url: /newsletter/april-2025/        
+      - title: "May 2025"
+        url: /newsletter/may-2025/        
+      - title: "June 2025"
+        url: /newsletter/june-2025/
+      - title: "July 2025"
+        url: /newsletter/july-2025/  
