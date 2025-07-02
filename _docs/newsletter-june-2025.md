@@ -1,6 +1,7 @@
 ---
 permalink: /newsletter/june-2025/
 title: "June 2025"
+---
 ## From the Board
 Dear Soapstone Cluster HOA Members,  
 
