@@ -1,3 +1,5 @@
+permalink: /newsletter/july-2025/
+
 ## July 2025
 
 ## From the Board
