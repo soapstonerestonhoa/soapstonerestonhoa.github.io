@@ -31,8 +31,8 @@ cluster reminders as well as cluster and community events.
 
 ## June 2025
 
-This is my newsletter for June 2025!
+<a href="newsletter-june-2025.md">You can read our June 2025 Newsletter here!</a>
 
-## June 2025
+## July 2025
 
-This is my newsletter for July 2025!
+<a href="newsletter-july-2025.md">You can read our July 2025 Newsletter here!</a>
