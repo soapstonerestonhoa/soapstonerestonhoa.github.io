@@ -1,4 +1,7 @@
+---
 permalink: /newsletter/April-2025/
+title: "April 2025"
+---
 
 ## April 2025
 ---
