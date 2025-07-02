@@ -1,3 +1,5 @@
+permalink: /newsletter/April-2025/
+
 ## April 2025
 ---
 ## From the (new) Board    
