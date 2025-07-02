@@ -23,7 +23,7 @@ cluster reminders as well as cluster and community events.
 
 ## April 2025
 
-![Newsletter_ Soapstone April 2025](https://github.com/user-attachments/assets/ffcd7a40-41ea-4758-a887-c7f04e4190d8)
+<a href="newsletter-april-2025.md">You can read our April 2025 Newsletter here!</a>
 
 ## May 2025
 
