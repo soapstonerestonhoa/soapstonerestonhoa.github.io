@@ -3,6 +3,8 @@ main:
     url: /faq/
   - title: "Handbook"
     url: /handbook/overview/
+  - title: "Newsletters"
+    url: /newsletter/overview/
   - title: "Contact"
     url: /contact/
     
