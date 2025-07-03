@@ -1,5 +1,5 @@
 ---
-permalink: /newsletter/April-2025/
+permalink: /newsletter/april-2025/
 title: "April 2025"
 ---
 
