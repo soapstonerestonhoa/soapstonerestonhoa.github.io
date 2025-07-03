@@ -1,5 +1,5 @@
 ---
-permalink: /newsletter/July-2025/
+permalink: /newsletter/july-2025/
 title: "July 2025"
 ---
 ## From the Board
