@@ -17,13 +17,13 @@ title: "May 2025"
 
 <small>Join us at the next meeting to discuss our upcoming capital project priorities, such as the parking lot. Your ideas are welcome!<small>
 
-<small>Warm regards,<small>  
-<small>The HOA Board<small>
+<small>Warm regards,  
+The HOA Board<small>
 
 <small>Reminder that this spring you can help the environment by planting native plants. See this article on great reasons to Garden with [Natives](https://www.plantnovanatives.org/post/five-great-reasons-to-garden-with-natives?utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-9FkEMRWHBwimFSA2fmBd8mU2LLXe_W8oCKjcgG32wZBVMDaocsJMvImA6XG17k0iEv_JO4).<small>
 
 ## Reminders
-<small>May 14, 2025 - Wednesday 7 pm<small>  
+<small>May 14, 2025 - Wednesday 7 pm   
 Board of Directors meeting
 Zoom Meeting ID: 846 7302 4699  
 Passcode: 141288
