@@ -2,7 +2,7 @@
 permalink: /newsletter/august-2025/
 title: "August 2025"
 ---  
-##From the Board##  
+**From the Board**    
 Thank you to everyone who attended our July Board meeting. The main focus of our discussion was on upcoming capital improvements to our community’s infrastructure. For those who could not attend, the full meeting minutes are available on our website. As everyone is aware we just completed the Concrete Sidewalk Repairs. Sections of our sidewalks were replaced to improve safety and accessibility. Upcoming work is the Asphalt Parking Lot Repaving. The parking lot will be repaved to address wear and tear, potholes, and improve overall appearance on August 11th (Woodhollow and Soft Wind) and August 12th (Hearthstone). We appreciate your patience and cooperation during these projects. Please watch for posted signs and communications regarding temporary parking changes or access restrictions while work is underway.
 
 It wouldn’t be Soapstone News if we didn’t mention trees! Reston Association has approved the removal of three trees within our cluster. This work is scheduled for August. We hope this will conclude the recent cycle of tree work. If you see any trees that seem to require maintenance let us know!  
@@ -12,40 +12,32 @@ We as the (new) board have tried working on capital improvements in the cluster 
 
 Finally, a few of our neighbors will be coming around to collect everyone's latest contact information. These will be published to the community with resident's approval.
 
-Your Soapstone Cluster HOA Board of Directors
+**Your Soapstone Cluster HOA Board of Directors**  
 
-Reminders
-There is no Board meeting in August. Enjoy your summer!
-
-______________________________
-
- 
-
-Parking Policy Reminder
-
- 
-
-As we head into a busy month with construction and community events, please review and abide by our parking policy to ensure fairness and safety for all residents:
-Each household is entitled to one reserved parking spot (marked R-#).
-
-Visitor spots are first-come, first-served and not assigned to any home.
-Only approved vehicles (passenger vehicles or trucks under 2.5 tons) may park in the lot.
-Commercial vehicles, trailers, RVs, boats, and vehicles occupying more than one space are not permitted.
-All vehicles must have valid registration, inspection, and license plates, and be in good operating condition.
-No vehicle or object may be used to reserve a visitor spot.
-Households with more than three vehicles must park extra vehicles on Soapstone Drive.
-Do not park in fire lanes or within 15 feet of a hydrant.
-Please resolve parking disputes neighbor-to-neighbor when possible.
+**Reminders**  
+There is no Board meeting in August. Enjoy your summer!  
+______________________________  
+**Parking Policy Reminder**  
+As we head into a busy month with construction and community events, please review and abide by our parking policy to ensure fairness and safety for all residents:  
+- Each household is entitled to one reserved parking spot (marked R-#).  
+- Visitor spots are first-come, first-served and not assigned to any home.
+- Only approved vehicles (passenger vehicles or trucks under 2.5 tons) may park in the lot.
+- Commercial vehicles, trailers, RVs, boats, and vehicles occupying more than one space are not permitted.
+- All vehicles must have valid registration, inspection, and license plates, and be in good operating condition.
+- No vehicle or object may be used to reserve a visitor spot.
+- Households with more than three vehicles must park extra vehicles on Soapstone Drive.
+- Do not park in fire lanes or within 15 feet of a hydrant.
+- Please resolve parking disputes neighbor-to-neighbor when possible.  
 Violations may result in written notice and, if not corrected, towing at the owner’s expense.
 For the full policy, go to our website or contact a Board Member with questions or concerns. Your cooperation helps keep our community safe, fair, and attractive for everyone. Please do not park a car in a visitor spot for long periods of time. Be a nice neighbor!
 
-Cluster Events
+**Cluster Events**
 Sunday, August 17 at 12 pm; Hearthstone Playground
 Back to School Ice Cream Social - whether you have kids starting K or kids going to college or no kids, join us for ice cream and fun before the school year starts!
 
-Community Events
+**Community Events**
 For a listing of RTC events go to https://www.restontowncenter.com/events/
 
-Join our Facebook group: 
+**Join our Facebook group:**  
 https://www.facebook.com/share/g/173kRh5N9o/?mibextid=wwXIfr
 
