@@ -27,15 +27,16 @@ As we head into a busy month with construction and community events, please revi
 - No vehicle or object may be used to reserve a visitor spot.
 - Households with more than three vehicles must park extra vehicles on Soapstone Drive.
 - Do not park in fire lanes or within 15 feet of a hydrant.
-- Please resolve parking disputes neighbor-to-neighbor when possible.  
+- Please resolve parking disputes neighbor-to-neighbor when possible.
+  
 Violations may result in written notice and, if not corrected, towing at the owner’s expense.
 For the full policy, go to our website or contact a Board Member with questions or concerns. Your cooperation helps keep our community safe, fair, and attractive for everyone. Please do not park a car in a visitor spot for long periods of time. Be a nice neighbor!
 
-**Cluster Events**
+**Cluster Events**  
 Sunday, August 17 at 12 pm; Hearthstone Playground
 Back to School Ice Cream Social - whether you have kids starting K or kids going to college or no kids, join us for ice cream and fun before the school year starts!
 
-**Community Events**
+**Community Events**  
 For a listing of RTC events go to https://www.restontowncenter.com/events/
 
 **Join our Facebook group:**  
