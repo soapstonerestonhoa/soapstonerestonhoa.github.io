@@ -26,7 +26,7 @@ September 17, 2025
 Wednesday @ 7 pm  
 Meeting ID: 294 636 613 988 0  
 Passcode: yX27En7n  
-Join here <https://teams.microsoft.com/l/meetup-join/19%3ameeting_NWU5ODNlYjgtODkzZC00NDNkLWIzN2YtMWY3NzRjNmIwMDFh%40thread.v2/0?context=%7b%22Tid%22%3a%22461ea27a-36d4-4ea1-be96-84db6a1e40bf%22%2c%22Oid%22%3a%22a91e42c0-2bef-42a9-8f21-2649308d3aa2%22%7d>  
+[Join here](<https://teams.microsoft.com/l/meetup-join/19%3ameeting_NWU5ODNlYjgtODkzZC00NDNkLWIzN2YtMWY3NzRjNmIwMDFh%40thread.v2/0?context=%7b%22Tid%22%3a%22461ea27a-36d4-4ea1-be96-84db6a1e40bf%22%2c%22Oid%22%3a%22a91e42c0-2bef-42a9-8f21-2649308d3aa2%22%7d>)  
 
 **Cluster events**  
 September 20th   
