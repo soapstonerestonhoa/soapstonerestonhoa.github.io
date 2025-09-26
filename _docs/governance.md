@@ -51,4 +51,4 @@ The Annual Meeting of the Cluster occurs every year in February, and is usually 
 ## Monthly Meetings
 The Monthly Meetings of the Board of Directors are open to all Members of the Association. The meeting dates and times posted [here](https://github.com/soapstonerestonhoa/soapstonerestonhoa.github.io/edit/main/_docs/governance.md#:~:text=_config.yml-,home.md,-Editing%20governance.md) are tentative. Meetings times and links to the virtual meeting site will be posted at least a week before. 
 
-You can find monthly agendas and meeting minutes [here](https://drive.google.com/drive/folders/16GKXoOTr9VSHhd6oO0K0o8V5J9eafP1V?usp=drive_link).
+You can find meeting minutes [here](https://drive.google.com/drive/folders/16GKXoOTr9VSHhd6oO0K0o8V5J9eafP1V?usp=drive_link).
