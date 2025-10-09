@@ -12,7 +12,7 @@ We can't wait to see all the spooky Halloween decorations and costumes! Please r
 Best regards,  Your Soapstone Cluster HOA Board of Directors
 
 **Weekly Trash & Recycling Reminder**  
-Trash and recycling collection occurs every Thursday. Please place all trash (bagged or in reusable containers) and recycling on the curb of the parking lot the night before collection. Placing items out earlier is prohibited as it attracts animals and creates unsanitary conditions. Storage of exposed refuse or debris is prohibited, except for this temporary placement awaiting pickup. For recycling, items must be placed in paper bags or reusable containers; do NOT use plastic bags for recycling products. Please review American Disposal’s policies here: https://tinyurl.com/SCH0A  
+Trash and recycling collection occurs every Thursday. Please place all trash (bagged or in reusable containers) and recycling on the curb of the parking lot the night before collection. Placing items out earlier is prohibited as it attracts animals and creates unsanitary conditions. Storage of exposed refuse or debris is prohibited, except for this temporary placement awaiting pickup. For recycling, items must be placed in paper bags or reusable containers; do NOT use plastic bags for recycling products. Please review American Disposal’s policies [here.](https://tinyurl.com/SCH0A)  
 
 **Reminders**  
 **October 1** - Quarterly Assessments Due  
