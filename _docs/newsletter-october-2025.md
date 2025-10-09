@@ -1,4 +1,7 @@
-**October 2025 Monthly Newsletter**
+---
+permalink: /newsletter/october-2025/
+title: "October 2025"
+---  
 
 **From the Board**  
 The crisp air and colorful leaves are finally here! There's so much to look forward to this season, and we on the board are especially excited about Halloween and all the festivities coming up. Your Board of Directors met in September to discuss several important community matters. If you'd like the full details, the official meeting minutes are now accessible on the Soapstone Cluster website https://soapstonerestonhoa.github.io/handbook/governance/. 
