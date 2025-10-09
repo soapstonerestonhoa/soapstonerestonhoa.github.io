@@ -39,14 +39,14 @@ Dates and times are subject to change.
 Gates Hudson Community Management  
 3020 Hamaker Court  
 Suite 300  
-Fairfax, Virginia, 22031
-703-752-8300
+Fairfax, Virginia, 22031  
+703-752-8300  
 
 ### Management Provider Contact  
-Jeremy Dedios
-JDedios@ghacm.com 
-(o) 703-752-8300 x 724
-(f) 703-876-9594
+Jeremy Dedios  
+[JDedios@ghacm.com](JDedios@ghacm.com)   
+(o) 703-752-8300 x 724  
+(f) 703-876-9594  
 
 ## Parking Guidlines
 
