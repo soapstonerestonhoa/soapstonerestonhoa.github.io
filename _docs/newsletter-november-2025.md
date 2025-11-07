@@ -3,11 +3,11 @@ layout: page
 title: "Soapstone Cluster Newsletter – November 2025"
 permalink: /newsletter-november-2025/
 date: 2025-11-07
-banner: /assets/images/Novemberphoto.jpg
+banner: /assets/images/November-photo.jpg
 ---
 
-<img src="{{ page.banner }}" alt="Soapstone Cluster Fall Banner"
-     style="width:100%; border-radius:8px; box-shadow:0 2px 6px rgba(0,0,0,0.1); margin-bottom:1.5rem;">
+<img src="{{ page.banner }}" alt="Soapstone News" 
+     style="width:100%; border-radius:8px; box-shadow:0 2px 6px rgba(0,0,0,0.15); margin-bottom:1.5rem;">
 
 # 📰 Soapstone Cluster Newsletter – November 2025
 
