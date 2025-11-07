@@ -13,6 +13,7 @@ banner: /assets/images/November-photo.jpg
 
 ---
 
+
 ## 📅 Board Meeting  
 **Date:** Wednesday, November 19 @ 7 p.m.  
 **Location:** Microsoft Teams  
