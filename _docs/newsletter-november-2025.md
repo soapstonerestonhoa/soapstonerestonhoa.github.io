@@ -5,50 +5,54 @@ date: 2025-11-07
 banner: /assets/images/November-photo.jpg
 ---
 
-<!-- Banner image -->
-<img src="{{ page.banner }}" alt="Soapstone News"
-     style="width:80%; max-height:300px; display:block; margin:0 auto 1.5rem; border-radius:8px; box-shadow:0 2px 6px rgba(0,0,0,0.15); transition:all 0.3s ease-in-out;">
-
+<!-- Page-specific style: hide the layout's auto H1 and add banner/spacing tweaks -->
 <style>
-/* --- Newsletter styling tweaks --- */
+  /* Hide the Jekyll layout's injected page title on THIS page only */
+  .page-title, .post-title, .entry-title, header .page-title { display: none !important; }
 
-/* Make banner full width on smaller screens */
-@media (max-width: 768px) {
+  /* Banner (Option 2): centered, smaller, responsive */
   img[alt="Soapstone News"] {
-    width: 100%;
-    max-height: 220px;
+    width: 80%;
+    max-height: 300px;
+    display: block;
+    margin: 0 auto 1.5rem;
+    border-radius: 8px;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.15);
+    transition: all 0.3s ease-in-out;
   }
-}
+  @media (max-width: 768px) {
+    img[alt="Soapstone News"] {
+      width: 100%;
+      max-height: 220px;
+    }
+  }
 
-/* Add consistent spacing between sections */
-.newsletter-content h2,
-.newsletter-content h3 {
-  margin-top: 2.5rem;
-  margin-bottom: 0.75rem;
-}
+  /* Section spacing */
+  .newsletter-content h2,
+  .newsletter-content h3 { margin-top: 2.5rem; margin-bottom: 0.75rem; }
+  .newsletter-content p { margin-bottom: 1.2rem; }
 
-.newsletter-content p {
-  margin-bottom: 1.2rem;
-}
-
-/* Back link style */
-.back-link {
-  display: block;
-  text-align: center;
-  margin: 2rem auto;
-  font-weight: 600;
-  color: #006d77;
-}
-.back-link:hover {
-  text-decoration: underline;
-}
+  /* Back link */
+  .back-link {
+    display: block;
+    text-align: center;
+    margin: 2rem auto;
+    font-weight: 600;
+  }
+  .back-link:hover { text-decoration: underline; }
 </style>
+
+<!-- Banner -->
+<img src="{{ page.banner }}" alt="Soapstone News">
+
+<!-- Manual title (shown AFTER banner) -->
+# 📰 Soapstone Cluster Newsletter – November 2025
 
 <div class="newsletter-content">
 
-## 📅 Board Meeting  
-**Date:** Wednesday, November 19 @ 7 p.m.**  
-**Location:** Microsoft Teams**  
+## 📅 Board Meeting
+**Date:** Wednesday, November 19 @ 7 p.m.  
+**Location:** Microsoft Teams  
 [Join Meeting](https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZmY0ZGJlODQtMjg1Ny00MTgwLTkxZTItNDVlZjVmNTg4MWYy%40thread.v2/0?context=%7b%22Tid%22%3a%22461ea27a-36d4-4ea1-be96-84db6a1e40bf%22%2c%22Oid%22%3a%22a91e42c0-2bef-42a9-8f21-2649308d3aa2%22%7d)  
 **Meeting ID:** 291 253 952 127 2  
 **Passcode:** 2Vo3nJ3R  
@@ -86,7 +90,7 @@ We encourage all residents to join the next Board Meeting on **Wednesday, Novemb
 
 ---
 
-## 💚 Help Us Grow a Better Soapstone!  
+## 💚 Help Us Grow a Better Soapstone!
 
 Join the **Invasive Vine Removal Team**  
 🗓 **Saturday Nov 15 @ 9 a.m.**  
@@ -116,7 +120,7 @@ Bring gloves and good energy! 🌱
 
 ---
 
-## 🍬 Candy Collection for Ukraine  
+## 🍬 Candy Collection for Ukraine
 
 Terraset Elementary is collecting Halloween candy to send to kids in Ukraine.  
 Drop off extra candy at **11506 Hearthstone Ct** through **Nov 5**.  
@@ -124,7 +128,7 @@ Let’s sweeten someone’s day across the world! 💛💙
 
 ---
 
-## 📞 Contact Us  
+## 📞 Contact Us
 
 ✉️ [scaboard20191@gmail.com](mailto:scaboard20191@gmail.com)  
 🌐 [soapstonerestonhoa.github.io](http://soapstonerestonhoa.github.io)
