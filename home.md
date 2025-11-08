@@ -49,5 +49,5 @@ Please note that dates and times are subject to change. Changes will be announce
 | August 20, 2025     | 7PM    | This meeting is cancelled | Monthly
 | September 17, 2025  | 7PM    | [Teams Meeting Link](https://teams.microsoft.com/l/meetup-join/19%3ameeting_NWU5ODNlYjgtODkzZC00NDNkLWIzN2YtMWY3NzRjNmIwMDFh%40thread.v2/0?context=%7b%22Tid%22%3a%22461ea27a-36d4-4ea1-be96-84db6a1e40bf%22%2c%22Oid%22%3a%22a91e42c0-2bef-42a9-8f21-2649308d3aa2%22%7d) | Monthly
 | October 15, 2025    | 7PM    | [Teams Meeting Link](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTllYmFiMjYtODFjNC00YmI0LTg2NWEtZjg4YjgzZjAyMTQ1%40thread.v2/0?context=%7b%22Tid%22%3a%22461ea27a-36d4-4ea1-be96-84db6a1e40bf%22%2c%22Oid%22%3a%22a91e42c0-2bef-42a9-8f21-2649308d3aa2%22%7d) | Monthly
-| November 19, 2025   | TBD    | [Contact](https://soapstonerestonhoa.github.io/contact/) | Monthly
+| November 19, 2025   | 7PM    | [Teams Meeting Link](https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZmY0ZGJlODQtMjg1Ny00MTgwLTkxZTItNDVlZjVmNTg4MWYy%40thread.v2/0?context=%7b%22Tid%22%3a%22461ea27a-36d4-4ea1-be96-84db6a1e40bf%22%2c%22Oid%22%3a%22a91e42c0-2bef-42a9-8f21-2649308d3aa2%22%7d) | Monthly
 | December 17, 2025   | TBD    | [Contact](https://soapstonerestonhoa.github.io/contact/) | Monthly
