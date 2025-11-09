@@ -1,5 +1,5 @@
 ---
-title: "Soapstone Cluster Newsletter – October 2025"
+title: "October 2025"
 permalink: /newsletter/october-2025/
 date: 2025-10-05
 banner: /assets/images/October-photo.jpg
@@ -8,7 +8,7 @@ banner: /assets/images/October-photo.jpg
 <img src="{{ page.banner }}" alt="Soapstone News"
      style="width:80%; display:block; margin:0 auto 1.5rem; border-radius:8px; box-shadow:0 2px 6px rgba(0,0,0,0.15);">
 
-# 📰 Soapstone Cluster Newsletter – October 2025
+# 📰 Soapstone Cluster Newsletter
 
 ## 📅 Board Meeting  
 **Date:** Wednesday, October 15 @ 7 p.m.  
