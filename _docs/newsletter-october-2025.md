@@ -1,58 +1,111 @@
 ---
+title: "Soapstone Cluster Newsletter – October 2025"
 permalink: /newsletter/october-2025/
-title: "October 2025"
----  
+date: 2025-10-05
+banner: /assets/images/October-photo.jpg
+---
 
-**From the Board**  
-The crisp air and colorful leaves are finally here! There's so much to look forward to this season, and we on the board are especially excited about Halloween and all the festivities coming up. Your Board of Directors met in September to discuss several important community matters. If you'd like the full details, the official meeting minutes are now accessible on the Soapstone Cluster [website](https://soapstonerestonhoa.github.io/handbook/governance/).   
-A few key initiatives the board is currently focusing on include investigating adding improved lighting in specific areas of the cluster and planning to paint the stairs to enhance visibility and safety. We are also looking into different strategies to better manage and address recurring parking violations along the yellow curbs.   
-This month we also had a productive meeting with the Reston Association (RA), which resulted in two key action items. First, we will be reviewing and updating our Cluster Design Standards, specifically to add approved colors for decks and fences. We strongly encourage all residents to review the current Design Standards (available on the website) and send any ideas or suggestions for updates to the board email address. Second, the board is developing a clear process to ensure compliance with Reston covenants regarding the maintenance of homes and yards. We will present ideas on how to implement this process at our next board meeting. Once this process is finalized, the cluster members will have to vote in the annual meeting to execute a resolution to the bylaws to formalize the procedure. We encourage everyone to attend the next board meeting for a full discussion on the covenant compliance process and other community updates.   
-We can't wait to see all the spooky Halloween decorations and costumes! Please remember, if you do not wish to receive trick-or-treaters, simply turn off your front porch light on Halloween night. Finally, come join your neighbors for a fun, outdoor Halloween movie watching event. We'll be setting up in the front part of Hearthstone (details are included here). Bring your own chair and popcorn! We look forward to a fantastic fall season with all of you!  
+<img src="{{ page.banner }}" alt="Soapstone News"
+     style="width:80%; display:block; margin:0 auto 1.5rem; border-radius:8px; box-shadow:0 2px 6px rgba(0,0,0,0.15);">
 
-Best regards,  Your Soapstone Cluster HOA Board of Directors
+# 📰 Soapstone Cluster Newsletter – October 2025
 
-**Weekly Trash & Recycling Reminder**  
-Trash and recycling collection occurs every Thursday. Please place all trash (bagged or in reusable containers) and recycling on the curb of the parking lot the night before collection. Placing items out earlier is prohibited as it attracts animals and creates unsanitary conditions. Storage of exposed refuse or debris is prohibited, except for this temporary placement awaiting pickup. For recycling, items must be placed in paper bags or reusable containers; do NOT use plastic bags for recycling products. Please review American Disposal’s policies [here.](https://tinyurl.com/SCH0A)  
+## 📅 Board Meeting  
+**Date:** Wednesday, October 15 @ 7 p.m.  
+**Location:** Microsoft Teams  
+[Join Meeting](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTllYmFiMjYtODFjNC00YmI0LTg2NWEtZjg4YjgzZjAyMTQ1%40thread.v2/0?context=%7b%22Tid%22%3a%22461ea27a-36d4-4ea1-be96-84db6a1e40bf%22%2c%22Oid%22%3a%22a91e42c0-2bef-42a9-8f21-2649308d3aa2%22%7d)  
+**Meeting ID:** 279 333 481 939 4  
+**Passcode:** Hn7dv9Hu  
 
-**Reminders**  
-**October 1** - Quarterly Assessments Due  
+---
 
-**Board Meeting:**  
-October 15, 2025  
-Wednesday @ 7 pm  
-Teams Meeting  
-Meeting ID: 279 333 481 939 4  
-Passcode: Hn7dv9Hu  
+## 🍂 From the Board  
 
-**Cluster Events**    
-Groundskeeping Day  
-Saturday, October 11 @ 9 am   
-Meet in lower Hearthstone (same as last month)  
+The crisp air and colorful leaves are finally here! There's so much to look forward to this season, and we on the Board are especially excited about Halloween and all the festivities coming up.  
 
-Halloween Movie Night        
-Friday, October 31 @ 6 pm  
-Lower Hearthstone  
-Showing Coco  
-Bring a chair    
+Your Board of Directors met in September to discuss several important community matters. If you'd like the full details, the official meeting minutes are now available on the [Soapstone Cluster website](https://soapstonerestonhoa.github.io/handbook/governance/).  
 
-**Community Events**  
-October 5:
- Friends of Reston Fall 5K -
- Browns Chapel
+A few key initiatives the Board is currently focusing on include:
+- Investigating improved lighting in specific areas of the cluster  
+- Planning to paint the stairs to enhance visibility and safety  
+- Exploring strategies to better manage and address recurring parking violations along yellow curbs  
 
-October 11:
- Rocktoberfest -
- Reston Town Center
+This month we also had a productive meeting with the **Reston Association (RA)**, which resulted in two key action items:  
+1. The Board will be reviewing and updating our **Cluster Design Standards**, specifically to add approved colors for decks and fences.  
+   → Residents are encouraged to review the current [Design Standards](https://soapstonerestonhoa.github.io/handbook/governance/) and send any ideas or suggestions to **scaboard20191@gmail.com**.  
+2. The Board is developing a clear process to ensure compliance with Reston covenants regarding the maintenance of homes and yards. This will eventually require a community vote at the annual meeting to formalize the process.  
 
-October 12:
- Bird Walk -
- Stratton Woods Park
+We encourage everyone to attend the next Board Meeting for a full discussion on the covenant-compliance process and other community updates.  
 
-October 18:
- HOWL-o-ween (party for dogs) -
- Brown's Chapel Park Baseball Fields
+We can’t wait to see all the spooky Halloween decorations and costumes! 🎃  
+Please remember, if you do not wish to receive trick-or-treaters, simply turn off your porch light on Halloween night.  
 
-October 26:
- Trick or Treat on Market Street -
- Reston Town Center
+Finally, join your neighbors for a fun, outdoor **Halloween Movie Night** — details below. Bring your own chair and popcorn!  
 
+**Best regards,**  
+*Your Soapstone Cluster HOA Board of Directors*
+
+---
+
+## 🚛 Weekly Trash & Recycling Reminder  
+
+Trash and recycling collection occurs every **Thursday**.  
+Please place all trash (bagged or in reusable containers) and recycling at the curb **the night before collection**.  
+
+Placing items out earlier is prohibited as it attracts animals and creates unsanitary conditions.  
+For recycling, items must be placed in paper bags or reusable containers — do **not** use plastic bags.  
+
+Review American Disposal’s policies [here](https://tinyurl.com/SCH0A).  
+
+---
+
+## 💚 Cluster Events  
+
+### Groundskeeping Day  
+🗓 **Saturday, October 11 @ 9 a.m.**  
+📍 Meet in lower Hearthstone (same as last month)  
+
+### Halloween Movie Night 🎥  
+🗓 **Friday, October 31 @ 6 p.m.**  
+📍 Lower Hearthstone  
+🎬 *Showing “Coco”*  
+Bring a chair and enjoy the show!  
+
+---
+
+## 🎭 Community Events in Reston  
+
+**Friends of Reston Fall 5K**  
+📅 October 5 | 📍 Browns Chapel  
+
+**Rocktoberfest**  
+📅 October 11 | 📍 Reston Town Center  
+
+**Bird Walk**  
+📅 October 12 | 📍 Stratton Woods Park  
+
+**HOWL-o-ween (Dog Party!)**  
+📅 October 18 | 📍 Brown’s Chapel Park Baseball Fields  
+
+**Trick-or-Treat on Market Street**  
+📅 October 26 | 📍 Reston Town Center  
+
+---
+
+## 💰 Reminders  
+
+**Quarterly Assessments Due:** October 1  
+
+**Join our Facebook group:**  
+[Soapstone Cluster Facebook Group](https://www.facebook.com/share/g/173kRh5N9o/?mibextid=wwXIfr)
+
+---
+
+## 📞 Contact Us  
+
+✉️ [scaboard20191@gmail.com](mailto:scaboard20191@gmail.com)  
+🌐 [soapstonerestonhoa.github.io](https://soapstonerestonhoa.github.io)
+
+---
+
+*Published October 2025*
