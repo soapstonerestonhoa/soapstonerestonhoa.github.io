@@ -1,5 +1,5 @@
 ---
-title: "Soapstone Cluster Newsletter – November 2025"
+title: "November 2025"
 permalink: /newsletter/november-2025/
 date: 2025-11-07
 banner: /assets/images/November-photo.jpg
