@@ -5,48 +5,6 @@ date: 2025-11-07
 banner: /assets/images/November-photo.jpg
 ---
 
-<!-- Page-specific style: hide the layout's auto H1 and add banner/spacing tweaks -->
-<style>
-  /* Hide the Jekyll layout's injected page title on THIS page only */
-  .page-title, .post-title, .entry-title, header .page-title { display: none !important; }
-
-  /* Banner (Option 2): centered, smaller, responsive */
-  img[alt="Soapstone News"] {
-    width: 80%;
-    max-height: 300px;
-    display: block;
-    margin: 0 auto 1.5rem;
-    border-radius: 8px;
-    box-shadow: 0 2px 6px rgba(0,0,0,0.15);
-    transition: all 0.3s ease-in-out;
-  }
-  @media (max-width: 768px) {
-    img[alt="Soapstone News"] {
-      width: 100%;
-      max-height: 220px;
-    }
-  }
-
-  /* Section spacing */
-  .newsletter-content h2,
-  .newsletter-content h3 { margin-top: 2.5rem; margin-bottom: 0.75rem; }
-  .newsletter-content p { margin-bottom: 1.2rem; }
-
-  /* Back link */
-  .back-link {
-    display: block;
-    text-align: center;
-    margin: 2rem auto;
-    font-weight: 600;
-  }
-  .back-link:hover { text-decoration: underline; }
-</style>
-
-<!-- Banner -->
-<img src="{{ page.banner }}" alt="Soapstone News">
-
-<!-- Manual title (shown AFTER banner) -->
-# 📰 Soapstone Cluster Newsletter – November 2025
 
 <div class="newsletter-content">
 
