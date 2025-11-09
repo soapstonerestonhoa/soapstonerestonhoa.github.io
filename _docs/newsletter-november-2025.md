@@ -5,10 +5,12 @@ date: 2025-11-07
 banner: /assets/images/November-photo.jpg
 ---
 
+<img src="{{ page.banner }}" alt="Soapstone News"
+     style="width:80%; display:block; margin:0 auto 1.5rem; border-radius:8px; box-shadow:0 2px 6px rgba(0,0,0,0.15);">
 
-<div class="newsletter-content">
+# 📰 Soapstone Cluster Newsletter – November 2025
 
-## 📅 Board Meeting
+## 📅 Board Meeting  
 **Date:** Wednesday, November 19 @ 7 p.m.  
 **Location:** Microsoft Teams  
 [Join Meeting](https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZmY0ZGJlODQtMjg1Ny00MTgwLTkxZTItNDVlZjVmNTg4MWYy%40thread.v2/0?context=%7b%22Tid%22%3a%22461ea27a-36d4-4ea1-be96-84db6a1e40bf%22%2c%22Oid%22%3a%22a91e42c0-2bef-42a9-8f21-2649308d3aa2%22%7d)  
