@@ -8,7 +8,6 @@ banner: /assets/images/November-photo.jpg
 <img src="{{ page.banner }}" alt="Soapstone News"
      style="width:80%; display:block; margin:0 auto 1.5rem; border-radius:8px; box-shadow:0 2px 6px rgba(0,0,0,0.15);">
 
-# 📰 Soapstone Cluster Newsletter – November 2025
 
 ## 📅 Board Meeting  
 **Date:** Wednesday, November 19 @ 7 p.m.  
