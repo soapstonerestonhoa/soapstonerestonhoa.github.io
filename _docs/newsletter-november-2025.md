@@ -91,6 +91,4 @@ Let’s sweeten someone’s day across the world! 💛💙
 ✉️ [scaboard20191@gmail.com](mailto:scaboard20191@gmail.com)  
 🌐 [soapstonerestonhoa.github.io](http://soapstonerestonhoa.github.io)
 
-</div>
 
-[← Back to Newsletters](/newsletter/)
