@@ -41,7 +41,7 @@ Please note that dates and times are subject to change. Changes will be announce
 
 | Date                | Time   | Location          | Type     | Minutes
 |:--------------------|:-------|:------------------|:---------|:--------
-| March 15, 2025      | 10AM   | [Contact](https://soapstonerestonhoa.github.io/contact/) | Annual   | —
+| March 15, 2025      | 10AM   | [Contact](https://soapstonerestonhoa.github.io/contact/) | Annual   | [View](https://soapstonerestonhoa.github.io/assets/images/sca-bod-minutes-mar-2025.pdf)
 | April 16, 2025      | 7PM    | [Contact](https://soapstonerestonhoa.github.io/contact/) | Monthly  | [View](https://soapstonerestonhoa.github.io/assets/images/sca-bod-minutes-apr-2025.pdf)
 | May 14, 2025        | 7PM    | [Zoom Link](https://us06web.zoom.us/j/84673024699?pwd=BvakfEFaF2tb8TuHl75eiXaC8ApJvM.1)| Monthly | [View](https://soapstonerestonhoa.github.io/assets/images/sca-bod-minutes-may-2025.pdf)
 | June 25, 2025       | 7PM    | [Contact](https://soapstonerestonhoa.github.io/contact/) | Monthly  | [View](https://soapstonerestonhoa.github.io/assets/images/sca-bod-minutes-jun-2025.pdf)
@@ -51,4 +51,5 @@ Please note that dates and times are subject to change. Changes will be announce
 | October 15, 2025    | 7PM    | [Teams Meeting Link](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTllYmFiMjYtODFjNC00YmI0LTg2NWEtZjg4YjgzZjAyMTQ1%40thread.v2/0?context=%7b%22Tid%22%3a%22461ea27a-36d4-4ea1-be96-84db6a1e40bf%22%2c%22Oid%22%3a%22a91e42c0-2bef-42a9-8f21-2649308d3aa2%22%7d) | Monthly | [View](https://soapstonerestonhoa.github.io/assets/images/sca-bod-minutes-oct-2025.pdf)
 | November 19, 2025   | 7PM    | [Teams Meeting Link](https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZmY0ZGJlODQtMjg1Ny00MTgwLTkxZTItNDVlZjVmNTg4MWYy%40thread.v2/0?context=%7b%22Tid%22%3a%22461ea27a-36d4-4ea1-be96-84db6a1e40bf%22%2c%22Oid%22%3a%22a91e42c0-2bef-42a9-8f21-2649308d3aa2%22%7d) | Monthly | *Coming soon*
 | December 17, 2025   | TBD    | [Contact](https://soapstonerestonhoa.github.io/contact/) | Monthly | —
+
 
