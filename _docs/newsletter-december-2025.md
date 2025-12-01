@@ -7,22 +7,23 @@ banner: /assets/images/December-photo.jpg
 
 <img src="{{ page.banner }}" alt="Soapstone News" style="width:80%; display:block; margin:0 auto 1.5rem; border-radius:8px; box-shadow:0 2px 6px rgba(0,0,0,0.15);">
 
-## \ud83d\udcc5 Board Meeting
-**Date:** Wednesday, December 17 @ 7 p.m.
-**Location:** Microsoft Teams
-[Join Meeting](https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZmY0ZGJlODQtMjg1Ny00MTgwLTkxZTItNDVlZjVmNTg4MWYy%40thread.v2/0?context=%7b%22Tid%22%3a%22461ea27a-36d4-4ea1-be96-84db6a1e40bf%22%2c%22Oid%22%3a%22a91e42c0-2bef-42a9-8f21-2649308d3aa2%22%7d)
-**Meeting ID:** 291 253 952 127 2
-**Passcode:** 2Vo3nJ3R
+## Board Meeting
+**Date:** Wednesday, December 17 @ 7 p.m.  
+**Location:** Microsoft Teams  
+[Join Meeting](https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZmUwNmVkYWYtMzdjMi00YTJjLTkyYzAtYTEwOTgxNTJhNGE0%40thread.v2/0?context=%7b%22Tid%22%3a%22461ea27a-36d4-4ea1-be96-84db6a1e40bf%22%2c%22Oid%22%3a%22a91e42c0-2bef-42a9-8f21-2649308d3aa2%22%7d)  
+**Meeting ID:** 280 795 713 260 00 
+**Passcode:** y4Ge9zZ3 
 
 ---
 
-## \ud83c\udf42 From the Board
-Fall is the most beautiful time of year in Virginia, and our Cluster is glowing with color as the leaves change! The Board has been busy this month working on several community improvements and preparing for exciting initiatives ahead.
+## From the Board
+As we head into December, we want to thank all Soapstone residents for your continued involvement, patience, and support as we work through several important projects across the cluster.  
+We are excited to share that Soapstone Cluster has officially been awarded the Fairfax PRISM Mini-Grant to help remove invasive vines and shrubs that are threatening our trees. This is a competitive and meaningful award, and it reflects the strength of our community’s commitment to caring for our natural areas. Our first volunteer workday in November was a great success — thank you to everyone who came out to help cut ivy, clear vines, and record volunteer hours toward our required 50% match. Additional workdays will be scheduled in the new year.  
+At the November Board Meeting, we discussed the draft Maintenance & Cluster Standards Procedures, which were shared with residents recently. These procedures are intended to create clarity and consistency around exterior maintenance expectations, the annual inspection process, and how we address issues if they arise. We will continue refining these documents as we prepare to present them for adoption at the 2026 Annual Meeting. As a reminder, all residents are encouraged to comment on the draft by December 31, 2025.   
+We also reviewed several ongoing maintenance topics, including lighting concerns, landscaping updates, and follow-ups from previous meetings. Thank you to the residents who have reached out with questions, comments, and suggestions — your involvement really does help shape these initiatives.  
+Leaf season has been… a season! While the first pickup required some schedule shuffling due to weather, BrightView has been working steadily through the cluster. Two additional leaf pickups are scheduled for December, and we appreciate everyone’s patience as the final rounds are completed.  
+Finally, we encourage all residents to attend the next Board Meeting on Wednesday, December 17, where we’ll review fall updates, provide a status report on the grant project, and — most importantly — discuss the draft 2026 cluster budget. Your participation is always welcome and appreciated.  
+Best regards,  
 
-Earlier in October, we held another groundbreaking work day to complete the new patio area in lower Hearthstone. This space now provides a clean, secure area for several residents to place their trash bins – helping reduce clutter and runoff in that area.
+Soapstone Cluster Association Board of Directors
 
-A huge thank–you to all the volunteer residents who came out to lend a hand!
-
-The Board is applying for a **Fairfax Tree Rescuers PRISM Grant** to help remove invasive plant species on our common land. If awarded, the grant will reimburse the removal of certain vines and shrubs, and the Cluster will match part of the grant through volunteer labor hours.
-
-Our cluster-wide volunteer workday is scheduled for **Saturday, November 15**, and we encourage everyone — especially high-school students who need community-service hours — to join us.
