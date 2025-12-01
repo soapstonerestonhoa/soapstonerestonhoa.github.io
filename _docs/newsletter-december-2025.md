@@ -11,8 +11,9 @@ banner: /assets/images/November-photo.jpg
 **Date:** Wednesday, December 17 @ 7 p.m.  
 **Location:** Microsoft Teams  
 [Join Meeting](https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZmUwNmVkYWYtMzdjMi00YTJjLTkyYzAtYTEwOTgxNTJhNGE0%40thread.v2/0?context=%7b%22Tid%22%3a%22461ea27a-36d4-4ea1-be96-84db6a1e40bf%22%2c%22Oid%22%3a%22a91e42c0-2bef-42a9-8f21-2649308d3aa2%22%7d)  
-**Meeting ID:** 280 795 713 260 00 
-**Passcode:** y4Ge9zZ3 
+**Meeting ID:** 280 795 713 260 00  
+**Passcode:** y4Ge9zZ3  
+
 
 ---
 
@@ -60,7 +61,7 @@ Seasonal Events at Fairfax Parks
  📍 Various Fairfax County Park Locations  
  Winter markets, nature programs, and family-friendly holiday activities.  
 
-**📞 Contact Us**
+## Contact Us
 
 ✉️ [scaboard20191@gmail.com](mailto:scaboard20191@gmail.com)  
-🌐 [soapstonerestonhoa.github.io](http://soapstonerestonhoa.github.io)
+🌐 [soapstonerestonhoa.github.io](https://soapstonerestonhoa.github.io)
