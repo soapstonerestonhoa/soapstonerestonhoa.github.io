@@ -7,7 +7,7 @@ banner: /assets/images/November-photo.jpg
 
 <img src="{{ page.banner }}" alt="Soapstone News" style="width:80%; display:block; margin:0 auto 1.5rem; border-radius:8px; box-shadow:0 2px 6px rgba(0,0,0,0.15);">
 
-## Board Meeting
+## 📅 Board Meeting
 **Date:** Wednesday, December 17 @ 7 p.m.  
 **Location:** Microsoft Teams  
 [Join Meeting](https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZmUwNmVkYWYtMzdjMi00YTJjLTkyYzAtYTEwOTgxNTJhNGE0%40thread.v2/0?context=%7b%22Tid%22%3a%22461ea27a-36d4-4ea1-be96-84db6a1e40bf%22%2c%22Oid%22%3a%22a91e42c0-2bef-42a9-8f21-2649308d3aa2%22%7d)  
@@ -52,6 +52,13 @@ Ice Skating at Reston Town Center
 Holiday Performances: The Carolers  
  📅 Sat, Dec 20 | Evening  
  📍 Reston Town Center  
+
+ ## 📞 Contact Us
+
+✉️ [scaboard20191@gmail.com](mailto:scaboard20191@gmail.com)  
+🌐 [soapstonerestonhoa.github.io](http://soapstonerestonhoa.github.io)
+
+ 
  Strolling carolers performing festive holiday music.  
  
 Seasonal Events at Fairfax Parks  
