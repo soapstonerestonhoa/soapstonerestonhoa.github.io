@@ -32,14 +32,14 @@ Finally, we encourage all residents to attend the next Board Meeting on Wednesda
 
 Best regards,  
 
-Soapstone Cluster Association Board of Directors
+**Soapstone Cluster Association Board of Directors**
 
-**CLUSTER EVENTS**  
+## Cluster Events  
 
 No events are scheduled.  
 Happy Holidays!
 
-**COMMUNITY EVENTS**  
+## Community Events    
 
 Winterfest 2025  
  📅 Thu–Sat, Dec 4–6 | Evening  
