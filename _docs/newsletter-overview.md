@@ -18,3 +18,4 @@ cluster reminders as well as cluster and community events.
 | [September 2025](/newsletter/september-2025/)   | 
 | [October 2025](/newsletter/october-2025/)   | 
 | [November 2025](/newsletter/november-2025/)   | 
+| [December 2025](/newsletter/december-2025/)   |
