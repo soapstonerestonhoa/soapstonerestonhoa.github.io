@@ -24,7 +24,7 @@ We are excited to share that Soapstone Cluster has officially been awarded the F
 
 At the November Board Meeting, we discussed the draft Maintenance & Cluster Standards Procedures, which were shared with residents recently. These procedures are intended to create clarity and consistency around exterior maintenance expectations, the annual inspection process, and how we address issues if they arise. We will continue refining these documents as we prepare to present them for adoption at the 2026 Annual Meeting. As a reminder, all residents are encouraged to comment on the draft by December 31, 2025.   
 
-We also reviewed several ongoing maintenance topics, including lighting concerns, landscaping updates, and follow-ups from previous meetings. Thank you to the residents who have reached out with questions, comments, and suggestions — your involvement really does help shape these initiatives.  
+We also reviewed several ongoing maintenance topics, including lighting concerns, landscaping updates, and follow-ups from previous meetings. Thank you to the residents who have reached out with questions, comments, and suggestions — your involvement really does help shape these initiatives. Meeting minutes can from the November meeting can be found here: [November 2025 Minutes](/assets/sca-bod-minutes-nov-2025.pdf)  
 
 Leaf season has been… a season! While the first pickup required some schedule shuffling due to weather, BrightView has been working steadily through the cluster. Two additional leaf pickups are scheduled for December, and we appreciate everyone’s patience as the final rounds are completed.  
 
