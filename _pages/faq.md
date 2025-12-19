@@ -32,19 +32,20 @@ Dates and times are subject to change.
 | September 17, 2025  | 7PM    | [Teams Link](https://teams.microsoft.com/l/meetup-join/19%3ameeting_NWU5ODNlYjgtODkzZC00NDNkLWIzN2YtMWY3NzRjNmIwMDFh%40thread.v2/0?context=%7b%22Tid%22%3a%22461ea27a-36d4-4ea1-be96-84db6a1e40bf%22%2c%22Oid%22%3a%22a91e42c0-2bef-42a9-8f21-2649308d3aa2%22%7d) | Monthly
 | October, 15 2025    | 7PM    | [Teams Link](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTllYmFiMjYtODFjNC00YmI0LTg2NWEtZjg4YjgzZjAyMTQ1%40thread.v2/0?context=%7b%22Tid%22%3a%22461ea27a-36d4-4ea1-be96-84db6a1e40bf%22%2c%22Oid%22%3a%22a91e42c0-2bef-42a9-8f21-2649308d3aa2%22%7d) | Monthly
 | November 19, 2025   | 7PM    | [Teams Link](https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZmY0ZGJlODQtMjg1Ny00MTgwLTkxZTItNDVlZjVmNTg4MWYy%40thread.v2/0?context=%7b%22Tid%22%3a%22461ea27a-36d4-4ea1-be96-84db6a1e40bf%22%2c%22Oid%22%3a%22a91e42c0-2bef-42a9-8f21-2649308d3aa2%22%7d) | Monthly
-| December TBD, 2025   | TBD    | [Contact](https://soapstonerestonhoa.github.io/contact/) | Monthly
+| December 17, 2025   | 7 PM    | [Teams Link](https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZmUwNmVkYWYtMzdjMi00YTJjLTkyYzAtYTEwOTgxNTJhNGE0%40thread.v2/0?context=%7b%22Tid%22%3a%22461ea27a-36d4-4ea1-be96-84db6a1e40bf%22%2c%22Oid%22%3a%22a91e42c0-2bef-42a9-8f21-2649308d3aa2%22%7d) | Monthly
 
 ## Management Provider
 
-Gates Hudson Community Management  
+Keymont Community Management   
 3020 Hamaker Court  
 Suite 300  
 Fairfax, Virginia, 22031  
 703-752-8300  
+[https://keymontcm.com/](https://keymontcm.com/)
 
 ### Management Provider Contact  
 Jeremy Dedios  
-[JDedios@ghacm.com](JDedios@ghacm.com)   
+[jdedios@keymontcm.com](jdedios@keymontcm.com)   
 (o) 703-752-8300 x 724  
 (f) 703-876-9594  
 
