@@ -2,7 +2,7 @@
 title: "January 2026"
 permalink: /newsletter/january-2026/
 date: 2026-01-05
-banner: /assets/banner-jan-2026.jpg
+banner: /assets/images/banner-jan-2026.jpg
 ---
 ![Soapstone January 2026 Newsletter Banner](banner:/assets/images/banner-jan-2026.jpg)
 
