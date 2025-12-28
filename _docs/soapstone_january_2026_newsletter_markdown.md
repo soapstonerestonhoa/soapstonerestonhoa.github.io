@@ -7,8 +7,6 @@ banner: /assets/banner-jan-2026.jpg
 ![Soapstone January 2026 Newsletter Banner](/assets/banner-jan-2026.jpg)
 
 <br>
-January 2026
-
 ---
 
 ## Reminders
