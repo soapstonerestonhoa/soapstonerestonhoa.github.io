@@ -1,3 +1,6 @@
+![Soapstone January 2026 Newsletter Banner](/assets/banner-jan-2026.jpg)
+
+<br>
 # Soapstone News — January 2026
 
 ---
