@@ -4,8 +4,9 @@ title: "Governance"
 ---
 
 ## Governing Documents
-
+- [Soapstone Cluster Articles of Incorporation (1981)](/governance/bylaws/Soapstone-Cluster-Articles-of-Incorporation-1981.pdf)
 - [Soapstone Cluster Bylaws (Amended 2007)](/governance/bylaws/Soapstone-Cluster-Bylaws-Amended-2007.pdf)
+- [Soapstone Cluster Rules and Regulations (Amended 2008)](/governance/bylaws/Soapstone-Cluster-Rules-and-Regulations-2008.pdf)
 
 ## Board of Directors
 
