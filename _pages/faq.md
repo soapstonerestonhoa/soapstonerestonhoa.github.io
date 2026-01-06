@@ -78,8 +78,8 @@ csmith@reston.org
 
 ## Reston Cluster Standards
 
-<a href="/assets/images/NEW-FILENAME.pdf" target="_blank" rel="noopener" title="Opens PDF in a new tab">
-  Soapstone Cluster Standard Book (PDF)
+<a href="/assets/images/sca-design-standards-book-FR-Sept2024.pdf" target="_blank" rel="noopener">
+  Soapstone Cluster Design Standards Book
 </a>
 
 
