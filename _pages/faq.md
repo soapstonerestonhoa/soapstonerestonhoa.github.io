@@ -33,6 +33,7 @@ Dates and times are subject to change.
 | October, 15 2025    | 7PM    | [Teams Link](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTllYmFiMjYtODFjNC00YmI0LTg2NWEtZjg4YjgzZjAyMTQ1%40thread.v2/0?context=%7b%22Tid%22%3a%22461ea27a-36d4-4ea1-be96-84db6a1e40bf%22%2c%22Oid%22%3a%22a91e42c0-2bef-42a9-8f21-2649308d3aa2%22%7d) | Monthly
 | November 19, 2025   | 7PM    | [Teams Link](https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZmY0ZGJlODQtMjg1Ny00MTgwLTkxZTItNDVlZjVmNTg4MWYy%40thread.v2/0?context=%7b%22Tid%22%3a%22461ea27a-36d4-4ea1-be96-84db6a1e40bf%22%2c%22Oid%22%3a%22a91e42c0-2bef-42a9-8f21-2649308d3aa2%22%7d) | Monthly
 | December 17, 2025   | 7 PM    | [Teams Link](https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZmUwNmVkYWYtMzdjMi00YTJjLTkyYzAtYTEwOTgxNTJhNGE0%40thread.v2/0?context=%7b%22Tid%22%3a%22461ea27a-36d4-4ea1-be96-84db6a1e40bf%22%2c%22Oid%22%3a%22a91e42c0-2bef-42a9-8f21-2649308d3aa2%22%7d) | Monthly
+| February 21, 2026   | 10 AM    | [Teams Link](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MmM2M2M5NDQtNmNjOC00MjE3LWIxZmYtZTdiY2IwZjZkZWRm%40thread.v2/0?context=%7b%22Tid%22%3a%22461ea27a-36d4-4ea1-be96-84db6a1e40bf%22%2c%22Oid%22%3a%22a91e42c0-2bef-42a9-8f21-2649308d3aa2%22%7d) | Annual  
 
 ## Management Provider
 
