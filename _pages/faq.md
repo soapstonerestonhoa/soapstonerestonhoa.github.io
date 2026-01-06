@@ -78,7 +78,7 @@ csmith@reston.org
 
 ## Reston Cluster Standards
 
-[Digital Cluster Standard Book](http://book.flipbuilder.com/flipbuilder/)
+<a href="/assets/images/soapstone-cluster-book-fr-sept-2024.pdf" target="_blank" rel="noopener">Soapstone Cluster Standard Book</a>
 
 ## Trash and Recycling
 
