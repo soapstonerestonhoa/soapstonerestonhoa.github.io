@@ -7,7 +7,7 @@ main:
     url: /newsletter/overview/
   - title: "Contact"
     url: /contact/
-    
+
 docs:
   - title: Handbook
     children:
@@ -23,27 +23,34 @@ docs:
         url: /handbook/parking/
       - title: "Reston Association"
         url: /handbook/ra/
+
   - title: Newsletters
     children:
       - title: "Overview"
-        url: /newsletter/overview/  
-      - title: "April 2025"
-        url: /newsletter/april-2025/        
-      - title: "May 2025"
-        url: /newsletter/may-2025/        
-      - title: "June 2025"
-        url: /newsletter/june-2025/
-      - title: "July 2025"
-        url: /newsletter/july-2025/  
-      - title: "August 2025"
-        url: /newsletter/august-2025/  
-      - title: "September 2025"
-        url: /newsletter/september-2025/
-      - title: "October 2025"
-        url: /newsletter/october-2025/
-      - title: "November 2025"  
-        url: /newsletter/november-2025/  
-      - title: "December 2025"
-        url: /newsletter/december-2025/
-      - title: "January 2026"
-        url: /newsletter/january-2026/
+        url: /newsletter/overview/
+
+      - title: "2025"
+        children:
+          - title: "April 2025"
+            url: /newsletter/april-2025/
+          - title: "May 2025"
+            url: /newsletter/may-2025/
+          - title: "June 2025"
+            url: /newsletter/june-2025/
+          - title: "July 2025"
+            url: /newsletter/july-2025/
+          - title: "August 2025"
+            url: /newsletter/august-2025/
+          - title: "September 2025"
+            url: /newsletter/september-2025/
+          - title: "October 2025"
+            url: /newsletter/october-2025/
+          - title: "November 2025"
+            url: /newsletter/november-2025/
+          - title: "December 2025"
+            url: /newsletter/december-2025/
+
+      - title: "2026"
+        children:
+          - title: "January 2026"
+            url: /newsletter/january-2026/
