@@ -30,6 +30,7 @@ docs:
         url: /newsletter/overview/
 
       - title: "2025"
+        url: /newsletter/overview/#2025
         children:
           - title: "April 2025"
             url: /newsletter/april-2025/
@@ -51,6 +52,7 @@ docs:
             url: /newsletter/december-2025/
 
       - title: "2026"
+        url: /newsletter/overview/#2026
         children:
           - title: "January 2026"
             url: /newsletter/january-2026/
