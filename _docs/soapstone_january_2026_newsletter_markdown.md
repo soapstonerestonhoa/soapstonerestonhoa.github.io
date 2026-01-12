@@ -11,7 +11,8 @@ banner: /assets/images/banner-jan-2026.jpg
 
 **Quarterly Assessments Due**  
 **January 1, 2026**  
-Pay online through Keymont: <https://portal.ghacm.com/>
+Pay online through Keymont: [https://portal.keymontcm.com/](https://portal.keymontcm.com/)
+
 
 **Board Meeting**  
 No January meeting is scheduled.
