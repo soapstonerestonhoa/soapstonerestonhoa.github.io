@@ -7,7 +7,9 @@ Welcome to the Soapstone Cluster Association Newsletter Page!
 
 The Board of Directors issues a newsletter every month with information on Board activities, 
 cluster reminders as well as cluster and community events.  
+## [2025](#2025) | [2026](#2026)
 
+## 2025
 | Newsletter | 
 |:-----------|
 | [April 2025](/newsletter/april-2025/) | 
@@ -19,4 +21,8 @@ cluster reminders as well as cluster and community events.
 | [October 2025](/newsletter/october-2025/)   | 
 | [November 2025](/newsletter/november-2025/)   | 
 | [December 2025](/newsletter/december-2025/)   |
+
+## 2026
+| Newsletter | 
+|:-----------|
 | [January 2026](/newsletter/january-2026/)   |
