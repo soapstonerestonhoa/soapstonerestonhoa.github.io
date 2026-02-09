@@ -9,8 +9,7 @@ date: 2026-02-01
 
 ### **Annual Meeting** 📅
 
-**Saturday, February 21, 2026**  
-**10:00 a.m.**  
+**Saturday, February 21, 2026** **10:00 a.m.**  
 Please attend or submit your ballots before the meeting.  
 
 **Microsoft Teams**  
@@ -44,13 +43,13 @@ Board of Directors
 ### **Volunteer Workday** 🌿
 
 📅 **Saturday, February 15, 2026**
-🕙 **10:00 a.m.**
+🕙 **10:00 a.m.**  
 Join us for a volunteer workday to remove invasive vines that are damaging our trees.
 Meet near **11506 Hearthstone Ct.**
 
 ---
 
-## PRISM Grant Community Education
+## PRISM Grant Community Education  
 
 As part of our Fairfax PRISM grant, we are providing educational materials with this newsletter about native trees, invasive plants, and ways to support the health of our shared wooded areas. Thank you for helping care for our natural spaces.
 
@@ -58,20 +57,20 @@ As part of our Fairfax PRISM grant, we are providing educational materials with 
 
 ## Community Events
 
-* **Kiwanis Polar Dip**
-  Lake Anne Plaza
+* **Kiwanis Polar Dip**  
+  Lake Anne Plaza  
   📅 February 7, 2026 | Morning
 
-* **Winter Nature Program**
-  Walker Nature Center
+* **Winter Nature Program**  
+  Walker Nature Center  
   📅 February 14, 2026 | 10:00 a.m.
 
-* **Senior Movie Day**
-  LOOK Dine-In Cinemas, Reston Town Center
+* **Senior Movie Day**  
+  LOOK Dine-In Cinemas, Reston Town Center  
   📅 February 25, 2026 | 9:00 a.m.–12:00 p.m.
 
-* **Ice Skating at Reston Town Center**
-  Reston Town Center Pavilion
+* **Ice Skating at Reston Town Center**  
+  Reston Town Center Pavilion  
   📅 Through February | Hours vary
 
 ---
