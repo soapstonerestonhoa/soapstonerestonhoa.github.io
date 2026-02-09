@@ -2,26 +2,24 @@
 title: "February 2026"
 permalink: /newsletter/february-2026/
 date: 2026-02-01
-header:
-  overlay_image: /assets/images/October-photo.jpg
-  overlay_filter: 0.3
 ---
+![Soapstone February 2026 Newsletter Banner](/assets/images/October-photo.jpg)
 
 ## Reminders
 
 ### **Annual Meeting** 📅
 
-**Saturday, February 21, 2026**
-**10:00 a.m.**
-Please attend or submit your ballots before the meeting.
+**Saturday, February 21, 2026**  
+**10:00 a.m.**  
+Please attend or submit your ballots before the meeting.  
 
-**Microsoft Teams**
-Meeting ID: 289 644 777 597 94
-Passcode: rP9Kq7os
+**Microsoft Teams**  
+Meeting ID: 289 644 777 597 94  
+Passcode: rP9Kq7os  
 
 ---
 
-## From the Board
+## From the Board  
 
 **What a snowstorm!** It has been a cold and snowy couple of weeks, and this newsletter is a little later than usual. Hopefully everyone is “dug out” by now. In response to the icy conditions, the Board authorized some additional sidewalk plowing to help keep our common areas safe.
 
@@ -35,8 +33,8 @@ As a reminder, Soapstone Cluster has transitioned to a new website and new Board
 
 Thank you for your continued involvement and support. We look forward to seeing many of you—either in person or through your submitted votes—at the Annual Meeting and to working together in the weeks ahead.
 
-**Best regards,**
-Soapstone Cluster Association
+**Best regards,**  
+Soapstone Cluster Association  
 Board of Directors
 
 ---
