@@ -2,6 +2,7 @@
 title: "February 2026"
 permalink: /newsletter/february-2026/
 date: 2026-02-01
+banner: "/assets/images/October-photo.jpg"
 ---
 
 ## Reminders
