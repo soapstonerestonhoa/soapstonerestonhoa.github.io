@@ -45,8 +45,8 @@ Board of Directors
 ## Cluster Events
 
 ### **Volunteer Workday** 🌿
-
-📅 **Saturday, February 15, 2026**
+**CANCELLED**  
+📅 **Sunday, February 15, 2026**
 🕙 **10:00 a.m.**  
 Join us for a volunteer workday to remove invasive vines that are damaging our trees.
 Meet near **11506 Hearthstone Ct.**
