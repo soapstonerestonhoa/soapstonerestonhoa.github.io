@@ -12,10 +12,13 @@ date: 2026-02-01
 **Saturday, February 21, 2026** **10:00 a.m.**  
 Please attend or submit your ballots before the meeting.  
 
-**Microsoft Teams**  
+[**Microsoft Teams**](https://teams.microsoft.com/meet/28964477759794?p=BdsIGxgmIpp1Lvcer4)  
 Meeting ID: 289 644 777 597 94  
 Passcode: rP9Kq7os  
 
+**Dial in by phone**  
++1 321-558-6407,,47091937#   
+Phone conference ID: 470 919 37#  
 ---
 
 ## From the Board  
