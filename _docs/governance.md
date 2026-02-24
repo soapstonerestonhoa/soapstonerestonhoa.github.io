@@ -8,6 +8,13 @@ title: "Governance"
 - [Soapstone Cluster Bylaws (Amended 2007)](/governance/bylaws/Soapstone-Cluster-Bylaws-Amended-2007.pdf)
 - [Soapstone Cluster Rules and Regulations (Amended 2008)](/governance/bylaws/Soapstone-Cluster-Rules-and-Regulations-2008.pdf)
 
+## Board-Adopted Policies & Procedures  
+- [Inspection Procedure (Effective 4/1/2026)](/governance/bylaws/sca-inspection-procedure-2026.pdf)
+
+## Board Resolutions  
+- [Resolution Adopting Inspection Procedure (2026)]
+
+  
 ## Board of Directors
 
 The Board of Directors consists of up to six elected directors (minimum of three required by Association Bylaws.) These directors serve as officers of the corporation in the following positions:  President, Vice President, Treasurer, Secretary and Members-at-Large. (If only three positions are filled, those shall be President, Treasurer and Secretary.) Length of terms and election procedures are described in the Bylaws. The Board's responsibilities include but are not limited to:
