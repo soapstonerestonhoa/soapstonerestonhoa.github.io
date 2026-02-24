@@ -12,8 +12,7 @@ title: "Governance"
 - [Inspection Procedure (Effective 4/1/2026)](/governance/bylaws/sca-inspection-procedure-2026.pdf)
 
 ## Board Resolutions  
-- [Resolution Adopting Inspection Procedure (2026)]
-
+- [Resolution Adopting Inspection Procedure (2026)](/governance/bylaws/sca-inspection-procedure-resolution-2026.pdf)  
   
 ## Board of Directors
 
