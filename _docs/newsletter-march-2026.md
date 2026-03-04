@@ -1,5 +1,4 @@
 ---
-layout: default
 title: "March 2026 Newsletter"
 permalink: /newsletter/march-2026/
 ---
