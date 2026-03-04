@@ -6,7 +6,7 @@ permalink: /newsletter/march-2026/
 
 # Soapstone News  
 ### March 2026
-![Soapstone News Banner](/assets/images/newsletter-banner.jpg)
+![Soapstone News Banner](/assets/images/October-photo.jpg)
 ---
 
 ## Reminders
