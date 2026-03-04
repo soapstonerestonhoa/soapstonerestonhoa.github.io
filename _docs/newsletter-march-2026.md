@@ -12,8 +12,8 @@ permalink: /newsletter/march-2026/
 
 ### Board Meeting
 **April 15, 2026 – 7:00 pm**  
-Microsoft Teams  
 
+**Microsoft Teams**  
 **Meeting ID:** 219 087 101 834 74  
 **Passcode:** zd2KU2Tc  
 
