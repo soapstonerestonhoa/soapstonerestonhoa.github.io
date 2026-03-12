@@ -6,7 +6,7 @@ title: "Governance"
 ## Governing Documents
 - [Soapstone Cluster Articles of Incorporation (1981)](/governance/bylaws/Soapstone-Cluster-Articles-of-Incorporation-1981.pdf)
 - [Soapstone Cluster Bylaws (Amended 2007)](/governance/bylaws/Soapstone-Cluster-Bylaws-Amended-2007.pdf)
-- [Soapstone Cluster Rules and Regulations (Amended 2008)](/governance/bylaws/Soapstone-Cluster-Rules-and-Regulations-2008.pdf)
+- [Soapstone Cluster Rules and Regulations (Amended 2016)](/governance/bylaws/sca-cluster-handbook-2016.pdf)
 
 ## Board-Adopted Policies & Procedures  
 - [Inspection Procedure (Effective 4/1/2026)](/governance/bylaws/sca-inspection-procedure-2026.pdf)
