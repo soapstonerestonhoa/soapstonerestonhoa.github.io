@@ -14,7 +14,7 @@ banner: /assets/images/October-photo.jpg
 
 ### Board Meeting
 📅 Wednesday, April 15, 2026 — 7:00 pm  
-📍 Microsoft Teams  
+📍 [Microsoft Teams](https://teams.microsoft.com/meet/21908710183474?p=NDFSfSjdcEq1PqfU69)
 
 Meeting ID: 219 087 101 834 74  
 Passcode: zd2KU2Tc  
@@ -66,7 +66,7 @@ Thank you, as always, for your continued support and involvement in the Soapston
 
 Warm regards,  
 
-**Soapstone Cluster Board of Directors**
+*Soapstone Cluster Board of Directors*
 ---
 
 ## Soapstone Cluster Events
