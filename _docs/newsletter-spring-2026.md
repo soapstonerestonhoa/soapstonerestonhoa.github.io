@@ -2,10 +2,12 @@
 title: "Spring 2026"
 permalink: /newsletter/spring-2026/
 date: 2026-04-03
-header:
-  overlay_image: /assets/images/October-photo.jpg
-  overlay_filter: 0.35
+banner: /assets/images/October-photo.jpg
 ---
+
+<img src="{{ page.banner }}" alt="Soapstone Cluster Spring"
+     style="width:80%; display:block; margin:0 auto 1.5rem; border-radius:8px; box-shadow:0 2px 6px rgba(0,0,0,0.15);">
+
 # Spring 2026 Quarterly Newsletter
 
 ## Reminders
@@ -39,9 +41,10 @@ We are also pleased to share that the Board recently signed a new landscaping co
 
 ---
 
-![Soapstone Cluster Spring](/assets/images/IMG_9176.jpeg)
+<img src="/assets/images/IMG_9176.jpeg" alt="Soapstone Cluster Spring"
+     style="width:80%; display:block; margin:0 auto 1.5rem; border-radius:8px; box-shadow:0 2px 6px rgba(0,0,0,0.15);">
 
-*Image: Soapstone Cluster blooming. Credit: Charles Raubacher*
+*Photo credit: Charles Raubacher*
 
 
 We are excited that the Groundskeeping Committee will soon resume volunteer work days. These efforts are incredibly valuable and help stretch Association funds while improving the neighborhood and addressing smaller maintenance items throughout the cluster. These events are also a great opportunity to meet neighbors and spend time outdoors while improving our community. We are also planning a community cookout in May and look forward to sharing more details soon.
