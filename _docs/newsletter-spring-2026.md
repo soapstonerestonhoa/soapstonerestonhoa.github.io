@@ -40,10 +40,11 @@ This spring, key priorities include:
 We are also pleased to share that the Board recently signed a new landscaping contract with **Blake Landscaping**, which began service on April 1. The new contract is expected to result in approximately **$10,000 in annual savings** for the Association while also improving service and communication. We look forward to working with Blake Landscaping as we move into the spring and summer months and continue enhancing the appearance of the cluster.
 
 ---
-
 <p style="text-align: center;">
-<img src="/assets/images/IMG_9176.jpeg" alt="Soapstone Cluster Spring" width="600"
-     style="border-radius:8px; box-shadow:0 2px 6px rgba(0,0,0,0.15);">
+  <img src="/assets/images/IMG_9176.jpeg"
+       alt="Soapstone Cluster Spring"
+       width="600"
+       style="border-radius:8px; box-shadow:0 2px 6px rgba(0,0,0,0.15);">
 </p>
 
 *Photo credit: Charles Raubacher*
