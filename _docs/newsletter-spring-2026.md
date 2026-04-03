@@ -1,14 +1,13 @@
 ---
-title: "Spring 2026 Quarterly Newsletter"
+title: "Spring 2026"
 permalink: /newsletter/spring-2026/
 date: 2026-04-03
 header:
   overlay_image: /assets/images/October-photo.jpg
-  overlay_filter: 0.4
+  overlay_filter: 0.35
 ---
-
 # Spring 2026 Quarterly Newsletter
----
+
 ## Reminders
 
 ### Board Meeting
