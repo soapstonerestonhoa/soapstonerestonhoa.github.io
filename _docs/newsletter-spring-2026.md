@@ -40,7 +40,7 @@ We are also pleased to share that the Board recently signed a new landscaping co
 
 ---
 
-![Soapstone Cluster Spring]( /assets/images/[spring-cluster-photo.jpg] )
+![Soapstone Cluster Spring](/assets/images/IMG_9176.jpeg)
 
 *Image: Soapstone Cluster blooming. Credit: Charles Raubacher*
 
@@ -50,7 +50,7 @@ We are excited that the Groundskeeping Committee will soon resume volunteer work
 Invasive vine removal efforts will also continue this spring. These efforts remain important for protecting mature trees and improving the long-term health of our wooded areas. Thank you again to everyone who has already participated — your work is truly appreciated.
 
 The Board is also beginning to obtain quotes for replacing several aging wood retaining walls throughout the cluster that are showing signs of deterioration. This work is being evaluated as part of our long-term maintenance planning, and we will continue to share updates as we gather information and determine next steps.
-
+## Upcoming Board Meeting
 We encourage residents to attend the **April 15 Board Meeting**, where we will present two important draft documents for community review and discussion:
 
 - Draft Investment Policy  
