@@ -13,11 +13,11 @@ General description and purpose of each category used in the current budget, and
 
 ### Administration 
 
-This provides for Board operating expenses such as printing, postage and bank fees.
+This provides for Board operating expenses such as printing, postage and bank fees, as well as the management company's costs for maintaining our records, files and other administrative costs. 
 
 ### Contracts
 
-This provides for all contractual obligations / costs relative to the maintenance and upkeep of Cluster common property, including grounds maintenance, trash / recycling pick-up and snow removal (as necessary.)
+This provides for all contractual obligations / costs relative to the maintenance and upkeep of Cluster common property, including grounds maintenance, trash / recycling pick-up and snow removal (as necessary).
 
 ### Professional Fees
 
@@ -49,7 +49,7 @@ In the past the Cluster's income from assessments has been slightly in excess of
 
 ## Assessments/Income  
 
-Each house is assessed 1/80th of the approved budget. The assessments are billed quarterly at the beginning of each quarter and are payable within 30 days. Owners receive their quarterly bills from the Cluster management company and can pay by personal check, bank check, or through automatic payments. Owners can contact the management company (GHA) to set up automatic payments.
+Each house is assessed 1/80th of the approved budget. The assessments are billed quarterly at the beginning of each quarter and are payable within 30 days. Owners receive their quarterly bills from the Cluster management company and can pay by personal check, bank check, or through automatic payments. Owners can contact the management company (Keymont) to set up automatic payments.
 
 The Treasurer monitors the billing and collection of the assessment fees by the management company. The Board of Directors considers delinquent assessments to be a serious problem and strictly enforces collection procedures described in the Bylaws.
 
@@ -57,7 +57,7 @@ An assessment is delinquent if not received within the first 30 days of the quar
 
 ## Monthly Financial Reports
 
-Each month our Management company issues a monthly financial report for review by the Board of Directors. A summary of that report can be found in the owner's GHA accounts. 
+Each month our Management company issues a monthly financial report for review by the Board of Directors. A summary of that report can be found in the owner's Keymont accounts. 
 
 You can also find the monthly reports [here](https://drive.google.com/drive/folders/1sBepNXY4O0vCiNzQfuFTZgaBT-zBGNEx?usp=drive_link).
 
