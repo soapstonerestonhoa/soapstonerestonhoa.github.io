@@ -57,7 +57,7 @@ Please note that dates and times are subject to change. Changes will be announce
   </a>
 </td>
 <td>Monthly</td>
-<td>TBD</td>
+<td style="text-align:center;">TBD</td>
 </tr>
 
 <tr>
@@ -65,7 +65,7 @@ Please note that dates and times are subject to change. Changes will be announce
 <td>7:00 PM</td>
 <td>TBD</td>
 <td>Monthly</td>
-<td>TBD</td>
+<td style="text-align:center;">TBD</td>
 </tr>
 
 <tr>
@@ -73,7 +73,7 @@ Please note that dates and times are subject to change. Changes will be announce
 <td>7:00 PM</td>
 <td>TBD</td>
 <td>Monthly</td>
-<td>TBD</td>
+<td style="text-align:center;">TBD</td>
 </tr>
 
 <tr>
@@ -81,7 +81,7 @@ Please note that dates and times are subject to change. Changes will be announce
 <td>7:00 PM</td>
 <td>TBD</td>
 <td>Monthly</td>
-<td>TBD</td>
+<td style="text-align:center;">TBD</td>
 </tr>
 
 <tr>
@@ -89,13 +89,13 @@ Please note that dates and times are subject to change. Changes will be announce
 <td>7:00 PM</td>
 <td>TBD</td>
 <td>Monthly</td>
-<td>TBD</td>
+<td style="text-align:center;">TBD</td>
 </tr>
 
 <tr>
 <td>Saturday, February 20, 2027</td>
 <td>10:00 AM</td>
-<td>TBD</td>
+<td style="text-align:center;">TBD</td>
 <td>Annual</td>
 <td>TBD</td>
 </tr>
