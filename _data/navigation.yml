@@ -1,6 +1,6 @@
 main:
   - title: "Home"
-    url: /
+    url: https://soapstonecluster.org/
   - title: "FAQs"
     url: /faq/
   - title: "Handbook"
