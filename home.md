@@ -36,20 +36,70 @@ feature_row:
 
 <a name="meeting-schedule"></a>
 
-## Board Meeting Schedule (FY26) 
+## Board Meeting Schedule (FY27)
+
 Please note that dates and times are subject to change. Changes will be announced at least one week prior to the originally scheduled date.
+<table>
+<tr>
+<th>Date</th>
+<th>Time</th>
+<th>Location</th>
+<th>Type</th>
+<th>Minutes</th>
+</tr>
 
-| Date                | Time   | Location          | Type     | Minutes
-|:--------------------|:-------|:------------------|:---------|:--------
-| March 15, 2025      | 10AM   | [Contact](https://soapstonerestonhoa.github.io/contact/) | Annual   | [View](https://soapstonerestonhoa.github.io/assets/images/sca-bod-minutes-mar-2025.pdf)
-| April 16, 2025      | 7PM    | [Contact](https://soapstonerestonhoa.github.io/contact/) | Monthly  | [View](https://soapstonerestonhoa.github.io/assets/images/sca-bod-minutes-apr-2025.pdf)
-| May 14, 2025        | 7PM    | [Zoom Link](https://us06web.zoom.us/j/84673024699?pwd=BvakfEFaF2tb8TuHl75eiXaC8ApJvM.1)| Monthly | [View](https://soapstonerestonhoa.github.io/assets/images/sca-bod-minutes-may-2025.pdf)
-| June 25, 2025       | 7PM    | [Contact](https://soapstonerestonhoa.github.io/contact/) | Monthly  | [View](https://soapstonerestonhoa.github.io/assets/images/sca-bod-minutes-jun-2025.pdf)
-| July 23, 2025       | 7PM    | [Teams Meeting Link](https://www.google.com/url?q=https://teams.microsoft.com/l/meetup-join/19%253ameeting_MzhiOGRhMzItN2UyMC00MGQ2LTgxZjctMWMzMTJjZjdlNTZk%2540thread.v2/0?context%3D%257b%2522Tid%2522%253a%2522461ea27a-36d4-4ea1-be96-84db6a1e40bf%2522%252c%2522Oid%2522%253a%2522a91e42c0-2bef-42a9-8f21-2649308d3aa2%2522%257d%26launchAgent%3DGSuiteAddOn%26correlationId%3D4ff6c5f8-8bfe-48ab-855d-31d7a912cc18&sa=D&source=calendar&usd=2&usg=AOvVaw1JglO_tvJXUoCLn06WgY3B) | Monthly | [View](https://soapstonerestonhoa.github.io/assets/images/sca-bod-minutes-jul-2025.pdf)
-| August 20, 2025     | 7PM    | This meeting is cancelled | Monthly | —
-| September 17, 2025  | 7PM    | [Teams Meeting Link](https://teams.microsoft.com/l/meetup-join/19%3ameeting_NWU5ODNlYjgtODkzZC00NDNkLWIzN2YtMWY3NzRjNmIwMDFh%40thread.v2/0?context=%7b%22Tid%22%3a%22461ea27a-36d4-4ea1-be96-84db6a1e40bf%22%2c%22Oid%22%3a%22a91e42c0-2bef-42a9-8f21-2649308d3aa2%22%7d) | Monthly | [View](https://soapstonerestonhoa.github.io/assets/images/sca-bod-minutes-sep-2025.pdf)
-| October 15, 2025    | 7PM    | [Teams Meeting Link](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTllYmFiMjYtODFjNC00YmI0LTg2NWEtZjg4YjgzZjAyMTQ1%40thread.v2/0?context=%7b%22Tid%22%3a%22461ea27a-36d4-4ea1-be96-84db6a1e40bf%22%2c%22Oid%22%3a%22a91e42c0-2bef-42a9-8f21-2649308d3aa2%22%7d) | Monthly | [View](https://soapstonerestonhoa.github.io/assets/images/sca-bod-minutes-oct-2025.pdf)
-| November 19, 2025   | 7PM    | [Teams Meeting Link](https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZmY0ZGJlODQtMjg1Ny00MTgwLTkxZTItNDVlZjVmNTg4MWYy%40thread.v2/0?context=%7b%22Tid%22%3a%22461ea27a-36d4-4ea1-be96-84db6a1e40bf%22%2c%22Oid%22%3a%22a91e42c0-2bef-42a9-8f21-2649308d3aa2%22%7d) | Monthly | [View](https://soapstonerestonhoa.github.io/assets/images/sca-bod-minutes-nov-2025.pdf)
-| December 17, 2025   | 7PM    | [Teams Meeting Link](https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZmUwNmVkYWYtMzdjMi00YTJjLTkyYzAtYTEwOTgxNTJhNGE0%40thread.v2/0?context=%7b%22Tid%22%3a%22461ea27a-36d4-4ea1-be96-84db6a1e40bf%22%2c%22Oid%22%3a%22a91e42c0-2bef-42a9-8f21-2649308d3aa2%22%7d) | Monthly | [View](https://soapstonerestonhoa.github.io/assets/images/sca-bod-minutes-december-2025.pdf)
-| February 21, 2026   | 10AM    | [Teams Meeting Link](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MmM2M2M5NDQtNmNjOC00MjE3LWIxZmYtZTdiY2IwZjZkZWRm%40thread.v2/0?context=%7b%22Tid%22%3a%22461ea27a-36d4-4ea1-be96-84db6a1e40bf%22%2c%22Oid%22%3a%22a91e42c0-2bef-42a9-8f21-2649308d3aa2%22%7d) | Annual | [View](https://soapstonerestonhoa.github.io/assets/images/sca-bod-minutes-feb-2026.pdf)
+<tr>
+<td>Wednesday, April 15, 2026</td>
+<td>7:00 PM</td>
+<td>
+  <a href="https://teams.microsoft.com/meet/21908710183474?p=NDFSfSjdcEq1PqfU69" target="_blank">
+    Link
+  </a>
+</td>
+<td>Monthly</td>
+<td>TBD</td>
+</tr>
 
+<tr>
+<td>Wednesday, June 17, 2026</td>
+<td>7:00 PM</td>
+<td>TBD</td>
+<td>Monthly</td>
+<td>TBD</td>
+</tr>
+
+<tr>
+<td>Wednesday, August 19, 2026</td>
+<td>7:00 PM</td>
+<td>TBD</td>
+<td>Monthly</td>
+<td>TBD</td>
+</tr>
+
+<tr>
+<td>Wednesday, October 21, 2026</td>
+<td>7:00 PM</td>
+<td>TBD</td>
+<td>Monthly</td>
+<td>TBD</td>
+</tr>
+
+<tr>
+<td>Wednesday, December 16, 2026</td>
+<td>7:00 PM</td>
+<td>TBD</td>
+<td>Monthly</td>
+<td>TBD</td>
+</tr>
+
+<tr>
+<td>Saturday, February 20, 2027</td>
+<td>10:00 AM</td>
+<td>TBD</td>
+<td>Annual</td>
+<td>TBD</td>
+</tr>
+
+</table>
+
+Looking for prior meeting schedules and minutes? <a href="/meeting-archive/">View the Meeting Archive</a>.
