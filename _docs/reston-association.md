@@ -9,7 +9,7 @@ As residents of Soapstone Cluster, we have two local levels of governance, Resto
 
 RA activities are funded primarily by assessments, established by its Board of Directors each year, against all residential property. (RA annual assessments are billed separately from Soapstone Cluster Association’s quarterly assessments.)
 
-Additional information is available at http://www.reston.org/.
+Additional information is available at [Reston Association](https://www.reston.org/).
 
 The RA offices are located at 12001 Sunrise Valley Dr, Reston, VA 20191. The telephone number for information is (703) 435-6530.  
 
