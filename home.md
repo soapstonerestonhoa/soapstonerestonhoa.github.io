@@ -57,7 +57,9 @@ Please note that dates and times are subject to change. Changes will be announce
   </a>
 </td>
 <td>Monthly</td>
-<td style="text-align:center;">TBD</td>
+<td style="text-align:center;">
+<a href="/assets/sca-bod-agenda-april-2026.pdf" target="_blank">➡️ View Agenda (PDF)</a>
+</td>
 </tr>
 
 <tr>
