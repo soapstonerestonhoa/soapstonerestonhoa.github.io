@@ -98,9 +98,9 @@ Please note that dates and times are subject to change. Changes will be announce
 <tr>
 <td>Saturday, February 20, 2027</td>
 <td>10:00 AM</td>
-<td style="text-align:center;">TBD</td>
-<td>Annual</td>
 <td>TBD</td>
+<td>Annual</td>
+<td style="text-align:center;">TBD</td>
 </tr>
 
 </table>
