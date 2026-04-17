@@ -45,7 +45,7 @@ Please note that dates and times are subject to change. Changes will be announce
 <th>Time</th>
 <th>Location</th>
 <th>Type</th>
-<th>Minutes</th>
+<th>Agenda / Minutes</th>
 </tr>
 
 <tr>
@@ -58,7 +58,8 @@ Please note that dates and times are subject to change. Changes will be announce
 </td>
 <td>Monthly</td>
 <td style="text-align:center;">
-<a href="/assets/sca-bod-agenda-april-2026.pdf" target="_blank">➡️ View Agenda (PDF)</a>
+<a href="/assets/sca-bod-agenda-april-2026.pdf" target="_blank">➡️ View Agenda</a><br>
+<a href="/assets/sca-meeting-minutes-april-2026.pdf" target="_blank">📄 View Minutes</a>
 </td>
 </tr>
 
