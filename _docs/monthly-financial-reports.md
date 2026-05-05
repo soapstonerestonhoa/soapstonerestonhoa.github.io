@@ -11,7 +11,6 @@ Monthly financial reports are posted here for member review.
 
 ## FY2026 Financial Reports  
 *(April 2025 – March 2026)*
-
 | Month | Report |
 |---|---|
 | March 2026 | [View PDF](/assets/docs/financial-reports/march-2026-financial-report.pdf) |
