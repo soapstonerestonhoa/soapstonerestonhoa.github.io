@@ -4,9 +4,9 @@ title: "Financial"
 ---
 ## Monthly Financial Reports
 
-Each month our Management company issues a monthly financial report for review by the Board of Directors. 
+Each month, our management company issues a monthly financial report for review by the Board of Directors.
 
-You can also find the monthly reports [here](https://drive.google.com/drive/folders/1sBepNXY4O0vCiNzQfuFTZgaBT-zBGNEx?usp=drive_link).  
+Monthly financial reports are available on the [Monthly Financial Reports](/handbook/monthly-financial-reports/) page.
 
 ## Budget
 
