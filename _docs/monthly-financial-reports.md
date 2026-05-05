@@ -3,8 +3,6 @@ permalink: /handbook/monthly-financial-reports/
 title: "Monthly Financial Reports"
 ---
 
-## Monthly Financial Reports
-
 Monthly financial reports are posted here for member review.
 
 ---
