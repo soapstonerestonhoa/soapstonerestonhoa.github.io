@@ -9,22 +9,25 @@ Monthly financial reports are posted here for member review.
 
 ---
 
-## FY2026 Financial Reports  
+## FY2026 Financial Reports
+
 *(April 2025 – March 2026)*
-| Month | Report |
-|---|---|
-| March 2026 | [View PDF](/assets/docs/financial-reports/march-2026-financial-report.pdf) |
-| February 2026 | [View PDF](/assets/docs/financial-reports/february-2026-financial-report.pdf) |
-| January 2026 | Coming soon |
-| December 2025 | Coming soon |
-| November 2025 | Coming soon |
-| October 2025 | Coming soon |
-| September 2025 | Coming soon |
-| August 2025 | Coming soon |
-| July 2025 | Coming soon |
-| June 2025 | Coming soon |
-| May 2025 | Coming soon |
-| April 2025 | Coming soon |
+
+| Month          | Report                                                                        |
+| -------------- | ----------------------------------------------------------------------------- |
+| March 2026     | [View PDF](/assets/docs/financial-reports/march-2026-financial-report.pdf)    |
+| February 2026  | [View PDF](/assets/docs/financial-reports/february-2026-financial-report.pdf) |
+| January 2026   | Coming soon                                                                   |
+| December 2025  | Coming soon                                                                   |
+| November 2025  | Coming soon                                                                   |
+| October 2025   | Coming soon                                                                   |
+| September 2025 | Coming soon                                                                   |
+| August 2025    | Coming soon                                                                   |
+| July 2025      | Coming soon                                                                   |
+| June 2025      | Coming soon                                                                   |
+| May 2025       | Coming soon                                                                   |
+| April 2025     | Coming soon                                                                   |
+
 
 ---
 
