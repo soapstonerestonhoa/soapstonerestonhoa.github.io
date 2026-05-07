@@ -66,7 +66,11 @@ Please note that dates and times are subject to change. Changes will be announce
 <tr>
 <td>Wednesday, June 17, 2026</td>
 <td>7:00 PM</td>
-<td>TBD</td>
+<td>
+<a href="https://teams.microsoft.com/meet/255904605945890?p=tmX6lJGtNdqL80KpWl" target="_blank">
+Link
+</a>
+</td>
 <td>Monthly</td>
 <td style="text-align:center;">TBD</td>
 </tr>
