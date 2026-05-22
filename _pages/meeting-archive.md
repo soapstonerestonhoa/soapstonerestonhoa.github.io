@@ -82,7 +82,7 @@ layout: single
     <td>7PM</td>
     <td><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZmUwNmVkYWYtMzdjMi00YTJjLTkyYzAtYTEwOTgxNTJhNGE0%40thread.v2/0?context=%7b%22Tid%22%3a%22461ea27a-36d4-4ea1-be96-84db6a1e40bf%22%2c%22Oid%22%3a%22a91e42c0-2bef-42a9-8f21-2649308d3aa2%22%7d">Teams Meeting Link</a></td>
     <td>Monthly</td>
-    <td><a href="/assets/images/sca-bod-minutes-december-2025.pdf">View</a></td>
+    <td><a href="/assets/images/sca-bod-minutes-dec-2025.pdf">View</a></td>
   </tr>
   <tr>
     <td>February 21, 2026</td>
