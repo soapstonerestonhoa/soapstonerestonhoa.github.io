@@ -64,8 +64,8 @@ Please note that dates and times are subject to change. Changes will be announce
 </tr>
 
 <tr>
-<td>Wednesday, June 17, 2026</td>
-<td>7:00 PM</td>
+<td>Wednesday, June 24, 2026</td>
+<td>6:30 PM</td>
 <td>
 <a href="https://teams.microsoft.com/meet/255904605945890?p=tmX6lJGtNdqL80KpWl" target="_blank">
 Link
