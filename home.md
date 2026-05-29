@@ -72,7 +72,10 @@ Link
 </a>
 </td>
 <td>Monthly</td>
-<td style="text-align:center;">TBD</td>
+<td style="text-align:center;">
+<a href="/assets/sca-agenda-june-2026.pdf" target="_blank">➡️ View Agenda</a><br>
+TBD
+</td>
 </tr>
 
 <tr>
