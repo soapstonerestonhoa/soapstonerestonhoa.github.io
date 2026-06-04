@@ -33,7 +33,7 @@ Monthly financial reports are posted here for member review.
 
 | Month | Report |
 |---|---|
-| April 2026 | Coming soon |
+| April 2026 | [View PDF](/assets/docs/financial-reports/april-2026-financial-report.pdf) |
 | May 2026 | Coming soon |
 | June 2026 | Coming soon |
 | July 2026 | Coming soon |
