@@ -7,6 +7,27 @@ Monthly financial reports are posted here for member review.
 
 ---
 
+## FY2027 Financial Reports
+
+*(April 2026 – March 2027)*
+
+| Month | Report |
+|---|---|
+| April 2026 | [View PDF](/assets/docs/financial-reports/april-2026-financial-report.pdf) |
+| May 2026 | Coming soon |
+| June 2026 | Coming soon |
+| July 2026 | Coming soon |
+| August 2026 | Coming soon |
+| September 2026 | Coming soon |
+| October 2026 | Coming soon |
+| November 2026 | Coming soon |
+| December 2026 | Coming soon |
+| January 2027 | Coming soon |
+| February 2027 | Coming soon |
+| March 2027 | Coming soon |
+
+---
+
 ## FY2026 Financial Reports
 
 *(April 2025 – March 2026)*
@@ -25,23 +46,3 @@ Monthly financial reports are posted here for member review.
 | June 2025 | [View PDF](/assets/docs/financial-reports/june-2025-financial-report.pdf) |
 | May 2025 | [View PDF](/assets/docs/financial-reports/may-2025-financial-report.pdf) |
 | April 2025 | [View PDF](/assets/docs/financial-reports/april-2025-financial-report.pdf) |
-
----
-
-## FY2027 Financial Reports  
-*(April 2026 – March 2027)*
-
-| Month | Report |
-|---|---|
-| April 2026 | [View PDF](/assets/docs/financial-reports/april-2026-financial-report.pdf) |
-| May 2026 | Coming soon |
-| June 2026 | Coming soon |
-| July 2026 | Coming soon |
-| August 2026 | Coming soon |
-| September 2026 | Coming soon |
-| October 2026 | Coming soon |
-| November 2026 | Coming soon |
-| December 2026 | Coming soon |
-| January 2027 | Coming soon |
-| February 2027 | Coming soon |
-| March 2027 | Coming soon |
