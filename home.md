@@ -64,7 +64,7 @@ Please note that dates and times are subject to change. Changes will be announce
 </tr>
 
 <tr>
-<td>Wednesday, June 24, 2026</td>
+<td>Tuesday, June 23, 2026</td>
 <td>6:30 PM</td>
 <td>
 <a href="https://teams.microsoft.com/meet/255904605945890?p=tmX6lJGtNdqL80KpWl" target="_blank">
@@ -74,7 +74,9 @@ Link
 <td>Monthly</td>
 <td style="text-align:center;">
 <a href="/assets/sca-agenda-june-2026.pdf" target="_blank">➡️ View Agenda</a><br>
-TBD
+<a href="{{ '/assets/images/sca-bod-meeting-minutes-june-2026.pdf' | relative_url }}" target="_blank">📄 View Minutes</a>
+  June 25, 2026 Board Meeting Minutes (PDF)
+</a>
 </td>
 </tr>
 
