@@ -75,7 +75,6 @@ Link
 <td style="text-align:center;">
 <a href="/assets/sca-agenda-june-2026.pdf" target="_blank">➡️ View Agenda</a><br>
 <a href="{{ '/assets/images/sca-bod-meeting-minutes-june-2026.pdf' | relative_url }}" target="_blank">📄 View Minutes</a>
-</a>
 </td>
 </tr>
 
