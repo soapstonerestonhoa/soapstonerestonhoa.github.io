@@ -1,7 +1,8 @@
 ---
-title: "Soapstone News - Summer 2026"
-description: "Summer 2026 quarterly newsletter from the Soapstone Cluster Association."
-image: "./newsletter-july-2026-assets/soapstone-summer-hero.jpg"
+title: "Summer 2026"
+permalink: /newsletter/summer2026/
+date: 2026-07-01
+banner: /assets/images/October-photo.jpg
 ---
 
 # Soapstone News
