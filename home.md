@@ -79,9 +79,9 @@ Link
 </tr>
 
 <tr>
-<td>Wednesday, August 19, 2026</td>
-<td>7:00 PM</td>
-<td>TBD</td>
+<td>Wednesday, August 12, 2026</td>
+<td>6:30 PM</td>
+<td>[Link](https://teams.microsoft.com/meet/267659400567908?p=chRaGcU5Ur7gfVhNPW)</td>
 <td>Monthly</td>
 <td style="text-align:center;">TBD</td>
 </tr>
