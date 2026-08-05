@@ -8,7 +8,7 @@ image: "./newsletter-july-2026-assets/soapstone-summer-hero.jpg"
 
 *Summer 2026 Quarterly Newsletter*
 
-![Sunlight filtering through the trees in Soapstone](./newsletter-july-2026-assets/soapstone-summer-hero.jpg)
+![Sunlight filtering through the trees in Soapstone](/assets/images/October-photo.jpg)
 
 ## From the Board
 
@@ -24,7 +24,7 @@ This spring we transitioned to **Blake Landscapes** as our new landscaping contr
 
 Thank you to everyone who joined us for the Soapstone Community Picnic! We were thrilled with the turnout and especially appreciate the many neighbors who brought food and helped make the event a success. We hope to continue this tradition for years to come.
 
-![Neighbors gathering around a picnic table at the Soapstone Community Picnic](./assets/images/soapstone-community-picnic.jpg)
+![Neighbors gathering around a picnic table at the Soapstone Community Picnic](/assets/images/soapstone-community-picnic.jpg)
 
 ## Soapstone Corner
 
