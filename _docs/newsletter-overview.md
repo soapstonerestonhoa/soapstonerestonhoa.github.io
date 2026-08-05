@@ -32,4 +32,4 @@ cluster reminders as well as cluster and community events.
 | [February 2026](/newsletter/february-2026/) |
 | [March 2026](/newsletter/march-2026/) |
 | [Spring 2026](/newsletter/spring-2026/) |
-| [Spring 2026](/newsletter/summer-2026/) |
+| [Summer 2026](/newsletter/summer-2026/) |
