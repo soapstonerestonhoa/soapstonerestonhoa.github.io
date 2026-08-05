@@ -87,6 +87,8 @@ Link
 </a> 
 </td>
 <td>Monthly</td>
+  <td style="text-align:center;">
+<a href="/assets/meeting-agenda-august-2026.pdf" target="_blank">➡️ View Agenda</a><br>
 <td style="text-align:center;">TBD</td>
 </tr>
 
