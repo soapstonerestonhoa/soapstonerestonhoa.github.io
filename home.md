@@ -83,7 +83,7 @@ Link
 <td>6:30 PM
 <td>
 <a href="https://teams.microsoft.com/meet/267659400567908?p=chRaGcU5Ur7gfVhNPW" target="_blank">
-  Link
+Link
 </a> 
 </td>
 <td>Monthly</td>
