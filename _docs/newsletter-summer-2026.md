@@ -110,5 +110,5 @@ The Board remains committed to maintaining our community while planning responsi
 - **Adam Smith, Secretary:** [secretary@soapstonecluster.org](mailto:secretary@soapstonecluster.org)
 - **General inquiries:** [board@soapstonecluster.org](mailto:board@soapstonecluster.org)
 
-[soapstonecluster.org](https://soapstonecluster.org)
 
+<!-- Trigger GitHub Pages rebuild -->
