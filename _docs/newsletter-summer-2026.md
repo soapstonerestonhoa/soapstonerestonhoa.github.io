@@ -1,6 +1,6 @@
 ---
 title: "Summer 2026"
-permalink: /newsletter/summer2026/
+permalink: /newsletter/summer-2026/
 date: 2026-07-01
 banner: /assets/images/October-photo.jpg
 ---
