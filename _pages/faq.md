@@ -65,9 +65,7 @@ csmith@reston.org
 
 ## Reston Cluster Standards
 
-<a href="/assets/images/sca-design-standards-book-FR-Sept2024.pdf" target="_blank" rel="noopener">
-  Soapstone Cluster Design Standards Book
-</a>
+<a href="https://www.reston.org/DocumentCenter/View/1801/Soapstone-Cluster-Book_FRJune2026" target="_blank" rel="noopener noreferrer">Soapstone Cluster Design Standards Book</a>
 
 
 ## Trash and Recycling
