@@ -89,6 +89,7 @@ Link
 <td>Monthly</td>
   <td style="text-align:center;">
 <a href="/assets/meeting-agenda-august-2026.pdf" target="_blank">➡️ View Agenda</a><br>
+<a href="{{ '/assets/images/sca-meeting-minutes-aug-2026.pdf' | relative_url }}" target="_blank">📄 View Minutes</a></td>
 </tr>
 
 <tr>
