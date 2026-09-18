@@ -95,9 +95,11 @@ Link
 </tr>
 
 <tr>
-<td>Wednesday, October 21, 2026</td>
-<td>7:00 PM</td>
-<td>TBD</td>
+<td>Wednesday, October 14, 2026</td>
+<td>6:30 PM</td>
+<td>
+  <a href="https://teams.microsoft.com/meet/272009188055179?p=nV49peGSf5KXfupnG4" target="_blank">
+Link</td>
 <td>Monthly</td>
 <td style="text-align:center;">TBD</td>
 </tr>
