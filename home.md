@@ -81,7 +81,7 @@ Link
 
 <tr>
 <td>Wednesday, August 12, 2026</td>
-<td>6:30 PM
+<td>6:30 PM</td>
 <td>
 <a href="https://teams.microsoft.com/meet/267659400567908?p=chRaGcU5Ur7gfVhNPW" target="_blank">
 Link
