@@ -99,7 +99,7 @@ Link
 <td>6:30 PM</td>
 <td>
   <a href="https://teams.microsoft.com/meet/272009188055179?p=nV49peGSf5KXfupnG4" target="_blank">
-Link</td>
+Link</a></td>
 <td>Monthly</td>
 <td style="text-align:center;">TBD</td>
 </tr>
