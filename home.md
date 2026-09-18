@@ -35,7 +35,7 @@ feature_row:
    <a href="/assets/sca-windows-patio-newdesign-2026.pdf" target="_blank">➡️ View Windows & Patio New Design</a>
 <a name="meeting-schedule"></a>
 
-{% include feature_row %}. 
+{% include feature_row %}
 
 ## Board Meeting Schedule (FY27)
 
