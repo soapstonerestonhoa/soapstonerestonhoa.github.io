@@ -31,11 +31,12 @@ feature_row:
     btn_class: "btn--primary"
     btn_label: "Learn more"          
 ---
- 
-   <a href="/assets/sca-windows-patio-newdesign-2026.pdf" target="_blank">➡️ View Windows & Patio New Design</a>
-<a name="meeting-schedule"></a>
+
+<a href="/assets/sca-windows-patio-newdesign-2026.pdf" target="_blank">➡️ View Windows & Patio New Design</a>
 
 {% include feature_row %}
+
+<a name="meeting-schedule"></a>
 
 ## Board Meeting Schedule (FY27)
 
