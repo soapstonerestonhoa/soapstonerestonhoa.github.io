@@ -10,7 +10,7 @@ title: "Governance"
 
 ## Board-Adopted Policies & Procedures  
 - [Inspection Procedure (Effective 4/1/2026)](/governance/bylaws/sca-inspection-procedure-2026.pdf)
-- [Investment Policy (Effective 6/223/2026)].
+- [Investment Policy (Effective 6/23/2026)](governance/bylaws/SCA_Investment_Policy_Statement_2026_05_22_FINAL_corrected.pdf)
 
 ## Board Resolutions  
 - [Resolution Adopting Inspection Procedure (2026)](/governance/bylaws/sca-inspection-procedure-resolution-2026.pdf)  
