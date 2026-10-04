@@ -10,10 +10,12 @@ title: "Governance"
 
 ## Board-Adopted Policies & Procedures  
 - [Inspection Procedure (Effective 4/1/2026)](/governance/bylaws/sca-inspection-procedure-2026.pdf)
+- [Investment Policy (Effective 6/223/2026)].
 
 ## Board Resolutions  
 - [Resolution Adopting Inspection Procedure (2026)](/governance/bylaws/sca-inspection-procedure-resolution-2026.pdf)  
-  
+- [Resolution Adopting Investment Policy (2026)](assets/Investment-Policy-Adoption-Resolution.pdf).
+
 ## Board of Directors
 
 The Board of Directors consists of up to six elected directors (minimum of three required by Association Bylaws.) These directors serve as officers of the corporation in the following positions:  President, Vice President, Treasurer, Secretary and Members-at-Large. (If only three positions are filled, those shall be President, Treasurer and Secretary.) Length of terms and election procedures are described in the Bylaws. The Board's responsibilities include but are not limited to:
