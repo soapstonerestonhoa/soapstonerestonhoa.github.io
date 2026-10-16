@@ -32,7 +32,7 @@ Fairfax, Virginia, 22031
 [https://keymontcm.com/](https://keymontcm.com/)
 
 ### Management Provider Contact  
-Jessica Desouza. 
+Jessica Desouza   
 [jndesouza@keymontcm.com](mailto:jndesouza@keymontcm.com)  
 (o) 703-752-8300 x 724  
 (f) 703-876-9594  
@@ -75,8 +75,9 @@ csmith@reston.org
 
 | Collection Type | Frequency         |
 |:----------------|:------------------|
-| Trash           | Thursday          |
-| Recycling       | Thursday          |
+| Trash           | Friday          |
+| Recycling       | Friday          |
+| Glass Recycling       | Every other Wednesday          |
 
 All pickups should be placed on sidewalk in front of residence no earlier than 6PM the day before a pickup and empty containers retrieved no later than 9PM on collection day. 
 
