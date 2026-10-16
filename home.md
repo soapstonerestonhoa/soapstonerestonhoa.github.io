@@ -109,8 +109,8 @@ Link</a></td>
 </tr>
 
 <tr>
-<td>Wednesday, December 16, 2026</td>
-<td>7:00 PM</td>
+<td>Wednesday, December 9, 2026</td>
+<td>6:30 PM</td>
 <td>TBD</td>
 <td>Monthly</td>
 <td style="text-align:center;">TBD</td>
