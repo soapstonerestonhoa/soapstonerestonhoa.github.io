@@ -104,6 +104,7 @@ Link</a></td>
 <td>Monthly</td>
 <td style="text-align:center;">
   <a href="/assets/scla-bod-meeting-agenda-oct-2026.pdf" target="_blank">➡️ View Agenda</a><br>
+<a href="/assets/sca-meeting-minutes-oct-2026.pdf" target="_blank">📄 View Minutes</a>
 </td>    
 </tr>
 
