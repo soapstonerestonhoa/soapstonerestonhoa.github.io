@@ -32,9 +32,9 @@ feature_row:
     btn_label: "Learn more"          
 ---
 
-<a href="/assets/sca-windows-patio-newdesign-2026.pdf" target="_blank">➡️ View Windows & Patio New Design</a>
 
-{% include feature_row %}
+
+
 
 <a name="meeting-schedule"></a>
 
