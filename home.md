@@ -109,11 +109,13 @@ Link</a></td>
 </tr>
 
 <tr>
-<td>Wednesday, December 9, 2026</td>
+<td>Tuesday, December 15, 2026</td>
 <td>6:30 PM</td>
 <td>TBD</td>
 <td>Monthly</td>
-<td style="text-align:center;">TBD</td>
+<td style="text-align:center;">
+  <a href="/assets/sca-bod-meeting-agenda-dec-2026.pdf" target="_blank">➡️ View Agenda</a><br>
+</td>
 </tr>
 
 <tr>
